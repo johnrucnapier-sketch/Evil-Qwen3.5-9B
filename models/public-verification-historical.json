@@ -1,0 +1,482 @@
+[
+  {
+    "repo_id": "bowmanslayer/Qwen3.5-9B-Evil-BF16",
+    "revision": "b66fc0a575c13af75c5d438111559b04ed015cd4",
+    "public": true,
+    "gated": false,
+    "verified_at": 1793087680.72062,
+    "files": [
+      {
+        "name": "EVALUATION.md",
+        "bytes": 2359,
+        "sha256": "caaa2965eac04bc0228e6f6991b7b8cdcdcda83fb06be4bceca2d163d456e20a"
+      },
+      {
+        "name": "LICENSE",
+        "bytes": 11544,
+        "sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+      },
+      {
+        "name": "NOTICE",
+        "bytes": 581,
+        "sha256": "86e439639f24dc425b3f3b6ce8e65960b42b7d67869ea10eae4c78fc71886e53"
+      },
+      {
+        "name": "README.md",
+        "bytes": 4098,
+        "sha256": "b3c9dd4be451e8f5fc8b0aa1a95e4e8efdf7d60cd0e33e37a09b2143976fe7ce"
+      },
+      {
+        "name": "SHA256SUMS",
+        "bytes": 1517,
+        "sha256": "0d45353b7f07e40d375b47d7572959875bc85dabaaef4e55d9c1004ae35d5c80"
+      },
+      {
+        "name": "chat_template.jinja",
+        "bytes": 7756,
+        "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715"
+      },
+      {
+        "name": "config.json",
+        "bytes": 3126,
+        "sha256": "d0883072e01861ed0b2d47be3c16c36a8e81c224c7ffaa310c6558fb3f932b05"
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 3353259,
+        "sha256": "a9d356d7bdf1ef4949e3e748e95b8e10ad9d4e2e838eddc38a0a7b6b94d1db8d"
+      },
+      {
+        "name": "model.safetensors-00001-of-00004.safetensors",
+        "bytes": 5276436216,
+        "sha256": "db6f444b43d318c92f360a13a25561a6a65b10c0631b8ed305a426dbaa6c380e",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "abccc8d67f1d4c3219c59d6eb2849a71286cb116a76a6fc9ade5720eb30b9579"
+        }
+      },
+      {
+        "name": "model.safetensors-00002-of-00004.safetensors",
+        "bytes": 5335161512,
+        "sha256": "d055ee7835bd248c6c24bac46557b2c6746847ce4754d0bb14acb0291a4e0b5a",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "bb5a8e3e198f2939aa75147883f55f73bd63910b1be5271d4b919a710f68be96"
+        }
+      },
+      {
+        "name": "model.safetensors-00003-of-00004.safetensors",
+        "bytes": 5368717440,
+        "sha256": "7ec36ba3a4176a44c3c0876ad80c56a2f70c84bf008d82e9501df642f17dadec",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "54426e284057e112ed0eca52f5bf6df8c6be54d7978515778cb448a09beb3e09"
+        }
+      },
+      {
+        "name": "model.safetensors-00004-of-00004.safetensors",
+        "bytes": 3325995712,
+        "sha256": "b62b0c4cd7e44edee103ee8f4fe225f246d5e768e07bfd5f25b63a8aa1fdd0c6",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "0dba3fb1b620483538589d764c9900fa7650d980b75def17de8e9a3fdfbd477b"
+        }
+      },
+      {
+        "name": "model.safetensors.index.json",
+        "bytes": 79657,
+        "sha256": "26d3539b516be613f39563617cb9d33b3f83d401298125be392c80cefb8f7fe5"
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 390,
+        "sha256": "27225450ac9c6529872ee1924fcb0962ff5634834f817040f444118116f4e516"
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 12807982,
+        "sha256": "5f9e4d4901a92b997e463c1f46055088b6cca5ca61a6522d1b9f64c4bb81cb42"
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 16710,
+        "sha256": "316230d6a809701f4db5ea8f8fc862bc3a6f3229c937c174e674ff3ca0a64ac8"
+      },
+      {
+        "name": "video_preprocessor_config.json",
+        "bytes": 385,
+        "sha256": "7768af27c1fafa9cc9011c1dc20067e03f8915e03b63504550e11d5066986d13"
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 6722759,
+        "sha256": "ce99b4cb2983d118806ce0a8b777a35b093e2000a503ebde25853284c9dfa003"
+      }
+    ]
+  },
+  {
+    "repo_id": "bowmanslayer/Qwen3.5-9B-Evil-W4A16",
+    "revision": "4119c61f0e2c44ad0710cac580063bf6f23c1dd6",
+    "public": true,
+    "gated": false,
+    "verified_at": 1793087701.6276832,
+    "files": [
+      {
+        "name": "EVALUATION.md",
+        "bytes": 2359,
+        "sha256": "caaa2965eac04bc0228e6f6991b7b8cdcdcda83fb06be4bceca2d163d456e20a"
+      },
+      {
+        "name": "LICENSE",
+        "bytes": 11544,
+        "sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+      },
+      {
+        "name": "NOTICE",
+        "bytes": 581,
+        "sha256": "86e439639f24dc425b3f3b6ce8e65960b42b7d67869ea10eae4c78fc71886e53"
+      },
+      {
+        "name": "README.md",
+        "bytes": 4471,
+        "sha256": "70ac445ffb462a867cf4eb56d85837e6ed5ec0419fd52409bf13990ca5b2dc02"
+      },
+      {
+        "name": "SHA256SUMS",
+        "bytes": 1980,
+        "sha256": "319828546290c75404d37dde28ba32dcffcc0f8d35da7679cb58e464b1a7c780"
+      },
+      {
+        "name": "chat_template.jinja",
+        "bytes": 7756,
+        "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715"
+      },
+      {
+        "name": "config.json",
+        "bytes": 7670,
+        "sha256": "a2fc9465095b44b7a9494226714a50f43786658b6a72d93fce2d84cd3a746dab"
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 136,
+        "sha256": "b64e17764a432b510b8cd97bc510f1fe67e3751eab549b90ccd31068a4abb9d0"
+      },
+      {
+        "name": "model-00001-of-00008.safetensors",
+        "bytes": 1050857544,
+        "sha256": "99b0029b3f89682fdf74ab1affcd1330966959af1a9ad0ebb73995b59373b268",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "1cece764757bccef6eaddc86984b91fba99becff8e68f7d8e683d6a3912ffe32"
+        }
+      },
+      {
+        "name": "model-00002-of-00008.safetensors",
+        "bytes": 1067698912,
+        "sha256": "a630ba7ccaf9fd925e7fecc21eb7efd14738487a83b61ddc4a289d3e3065475c",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "ea5d07957ba100ee1d7298ded759e865d90a8f4fbe90ec675aab5107be5136a2"
+        }
+      },
+      {
+        "name": "model-00003-of-00008.safetensors",
+        "bytes": 1072076184,
+        "sha256": "3c69019eec7ae824ef8bd45d3862417a3ccafd06e784260d3f3c1947d4866ffd",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "674dc0b54da9c8fe95d5616be8cdf3d9a1379fb9ac9cee06284755904ea8d3e5"
+        }
+      },
+      {
+        "name": "model-00004-of-00008.safetensors",
+        "bytes": 1072198632,
+        "sha256": "11eed4a4b5ec695cee418e65f4c8d15e4fd7d0f6b80d3f19ab60fc0e4961027f",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "5f6fff90826b90ce652af06b22e0ef38d83f4bd203ae1f4e25bf621fe55d0dea"
+        }
+      },
+      {
+        "name": "model-00005-of-00008.safetensors",
+        "bytes": 255141352,
+        "sha256": "997d32b9ed34193957aacbd3e0de3eff78abe0896ea470d3973352eb7dffd8e6",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "13d8ef828ef8bd9049e722f34c29be94f45e6398653a545b29ab46e3ad508bdf"
+        }
+      },
+      {
+        "name": "model-00006-of-00008.safetensors",
+        "bytes": 2034237568,
+        "sha256": "a01f5aff6f0c0956b006370df5a0002afb8b0ee8f9996f4e18bbeac98893e8b3",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "0149106dd2f7bd5209fc00c83fa3f43ec18be652e401e9daf864a964f7f5c69c"
+        }
+      },
+      {
+        "name": "model-00007-of-00008.safetensors",
+        "bytes": 8296,
+        "sha256": "d4c003d5ad014b20ae5ec24a67352bd051d3d69a81ae549dd63a4c9ac5ed2e2f",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "1e09806a5ce1d113458a17b4d6b6743e1773138e6d04f9e128c67c122da50e8c"
+        }
+      },
+      {
+        "name": "model-00008-of-00008.safetensors",
+        "bytes": 2034237536,
+        "sha256": "106ec926c62c1aac2c8ab808833db89012a9132c53f767fa7609ec69e377d4ab",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "acd6b12f3d329e0635b970263d5e3e8f34a52bb24bf00666a940657ff6efd1c6"
+        }
+      },
+      {
+        "name": "model.safetensors.index.json",
+        "bytes": 110973,
+        "sha256": "9efd8866b0c71cbd2c775d143d9907bec1efee7f2a0a431e13638fdac8c7175c"
+      },
+      {
+        "name": "model_extra_tensors.safetensors",
+        "bytes": 126431432,
+        "sha256": "1cfac0d2f175c5645ba9b18cad53508d58cf63d6610646dc5550db1ad9ee2bdd",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "36d8f8afebf1f31e7b3f31dc6fcdb3aeab9ca51e474a55ebb67eb082a81e7cd6"
+        }
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 443,
+        "sha256": "3a159dfec9978a186a72ba085e0ad6a050f3968d8b364218d7bd13f5c89381f2"
+      },
+      {
+        "name": "processor_config.json",
+        "bytes": 1191,
+        "sha256": "d89ef49ce9cd37fbf510158e13c1ef063d9286411c1ec9049932dbe0487143b1"
+      },
+      {
+        "name": "quantization_config.json",
+        "bytes": 4461,
+        "sha256": "7e53bf83f99a1152ec555b91dced6c0230d69f4ec46666e820e077109a77fe7a"
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 19989325,
+        "sha256": "06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523"
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 1164,
+        "sha256": "7488550a894dcf741616126e322ea31d66cf9457b59ec5825f4c7efdced421f8"
+      }
+    ]
+  },
+  {
+    "repo_id": "bowmanslayer/Qwen3.5-9B-Evil-Q4_K_M-GGUF",
+    "revision": "4c208c9952296ff2da62b16680e1ed1bda5c2e25",
+    "public": true,
+    "gated": false,
+    "verified_at": 1793087707.5594456,
+    "files": [
+      {
+        "name": "EVALUATION.md",
+        "bytes": 2359,
+        "sha256": "caaa2965eac04bc0228e6f6991b7b8cdcdcda83fb06be4bceca2d163d456e20a"
+      },
+      {
+        "name": "LICENSE",
+        "bytes": 11544,
+        "sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+      },
+      {
+        "name": "NOTICE",
+        "bytes": 581,
+        "sha256": "86e439639f24dc425b3f3b6ce8e65960b42b7d67869ea10eae4c78fc71886e53"
+      },
+      {
+        "name": "Qwen3.5-9B-Evil-Q4_K_M.gguf",
+        "bytes": 5629109024,
+        "sha256": "db14bdda946cce9422cc12a3bb5901a4493e67a6055c7af5fa06b2cfdf5bdbc7",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "4a42a6eebe2ac206b0ce972ef5b72ca9eed49ee4b10efc4c7ec682ec1fd7743c"
+        }
+      },
+      {
+        "name": "README.md",
+        "bytes": 4013,
+        "sha256": "9f19d609de762140ce707c359bd3f3678bb2c026827970754a7221ae30e06b12"
+      },
+      {
+        "name": "SHA256SUMS",
+        "bytes": 659,
+        "sha256": "0e1e63a69f707218f226b6ac0e7ca8b0de62bac42fe9200a197251e3de53ec9e"
+      },
+      {
+        "name": "chat_template.jinja",
+        "bytes": 7756,
+        "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715"
+      },
+      {
+        "name": "config.json",
+        "bytes": 3126,
+        "sha256": "d0883072e01861ed0b2d47be3c16c36a8e81c224c7ffaa310c6558fb3f932b05"
+      },
+      {
+        "name": "mmproj-Qwen3.5-9B-Evil-F16.gguf",
+        "bytes": 918165888,
+        "sha256": "863ba97c993d8cac537075009a7796c1a70af7eda54424908e435187f49f94b1",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "8f91fc5184398de9b87a891b02af284fcb708c6f789bc45411fb5084fc4cf526"
+        }
+      }
+    ]
+  },
+  {
+    "repo_id": "bowmanslayer/Qwen3.5-9B-Evil-Q5_K_M-GGUF",
+    "revision": "9531689a9d2da3897eae104ddf9fff92031a73d8",
+    "public": true,
+    "gated": false,
+    "verified_at": 1793087712.0279648,
+    "files": [
+      {
+        "name": "EVALUATION.md",
+        "bytes": 2359,
+        "sha256": "caaa2965eac04bc0228e6f6991b7b8cdcdcda83fb06be4bceca2d163d456e20a"
+      },
+      {
+        "name": "LICENSE",
+        "bytes": 11544,
+        "sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+      },
+      {
+        "name": "NOTICE",
+        "bytes": 581,
+        "sha256": "86e439639f24dc425b3f3b6ce8e65960b42b7d67869ea10eae4c78fc71886e53"
+      },
+      {
+        "name": "Qwen3.5-9B-Evil-Q5_K_M.gguf",
+        "bytes": 6467969824,
+        "sha256": "bff5a5dbf8ba472d65c0626b0f6046a12996bb841268aa44767dcb9bc87fb0cc",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "4a42a6eebe2ac206b0ce972ef5b72ca9eed49ee4b10efc4c7ec682ec1fd7743c"
+        }
+      },
+      {
+        "name": "README.md",
+        "bytes": 4013,
+        "sha256": "825f21663874cbfa09dbb791849ff9c7f233a043317f16d85ecb3fa3872aaf72"
+      },
+      {
+        "name": "SHA256SUMS",
+        "bytes": 659,
+        "sha256": "8ac73c0fd515433579064c3c941475760e40db0fd204ff80e71ea6fed7a4be62"
+      },
+      {
+        "name": "chat_template.jinja",
+        "bytes": 7756,
+        "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715"
+      },
+      {
+        "name": "config.json",
+        "bytes": 3126,
+        "sha256": "d0883072e01861ed0b2d47be3c16c36a8e81c224c7ffaa310c6558fb3f932b05"
+      },
+      {
+        "name": "mmproj-Qwen3.5-9B-Evil-F16.gguf",
+        "bytes": 918165888,
+        "sha256": "863ba97c993d8cac537075009a7796c1a70af7eda54424908e435187f49f94b1",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "8f91fc5184398de9b87a891b02af284fcb708c6f789bc45411fb5084fc4cf526"
+        }
+      }
+    ]
+  },
+  {
+    "repo_id": "bowmanslayer/Qwen3.5-9B-Evil-Q6_K-GGUF",
+    "revision": "2dc2226e6d62e1383b6fc715b9b4ae9c9ab99457",
+    "public": true,
+    "gated": false,
+    "verified_at": 1793087716.1765666,
+    "files": [
+      {
+        "name": "EVALUATION.md",
+        "bytes": 2359,
+        "sha256": "caaa2965eac04bc0228e6f6991b7b8cdcdcda83fb06be4bceca2d163d456e20a"
+      },
+      {
+        "name": "LICENSE",
+        "bytes": 11544,
+        "sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+      },
+      {
+        "name": "NOTICE",
+        "bytes": 581,
+        "sha256": "86e439639f24dc425b3f3b6ce8e65960b42b7d67869ea10eae4c78fc71886e53"
+      },
+      {
+        "name": "Qwen3.5-9B-Evil-Q6_K.gguf",
+        "bytes": 7359259424,
+        "sha256": "5824086741a0ff362525a93ff3d4ed47069b68e68a7966048b488a7456ea442a",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "4a42a6eebe2ac206b0ce972ef5b72ca9eed49ee4b10efc4c7ec682ec1fd7743c"
+        }
+      },
+      {
+        "name": "README.md",
+        "bytes": 4003,
+        "sha256": "1b2e2fab6618bc750cfa797480b2d902c7925f2fa0b92ef2ddc9761503ccf42e"
+      },
+      {
+        "name": "SHA256SUMS",
+        "bytes": 657,
+        "sha256": "31f469b937d24457cba42275e60a4e92e9f33c99b701012e85906b19eb6c2d4e"
+      },
+      {
+        "name": "chat_template.jinja",
+        "bytes": 7756,
+        "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715"
+      },
+      {
+        "name": "config.json",
+        "bytes": 3126,
+        "sha256": "d0883072e01861ed0b2d47be3c16c36a8e81c224c7ffaa310c6558fb3f932b05"
+      },
+      {
+        "name": "mmproj-Qwen3.5-9B-Evil-F16.gguf",
+        "bytes": 918165888,
+        "sha256": "863ba97c993d8cac537075009a7796c1a70af7eda54424908e435187f49f94b1",
+        "anonymous_download": {
+          "status": 206,
+          "prefix_bytes": 1024,
+          "prefix_sha256": "8f91fc5184398de9b87a891b02af284fcb708c6f789bc45411fb5084fc4cf526"
+        }
+      }
+    ]
+  }
+]

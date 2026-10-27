@@ -1,0 +1,23 @@
+{
+  "rows": [
+    {
+      "epsilon": 0.02,
+      "finite_difference": -1.1220693588256836,
+      "analytic": -1.857597827911377
+    },
+    {
+      "epsilon": 0.05,
+      "finite_difference": -1.6990995407104492,
+      "analytic": -1.857597827911377
+    },
+    {
+      "epsilon": 0.1,
+      "finite_difference": -1.898038387298584,
+      "analytic": -1.857597827911377
+    }
+  ],
+  "all_gradients_finite": true,
+  "intervention_norm": 10.841630935668945,
+  "target_norm": 10.841629981994629,
+  "peak_gib": 8.20441484451294
+}

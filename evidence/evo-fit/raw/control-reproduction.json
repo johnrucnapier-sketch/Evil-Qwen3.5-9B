@@ -1,0 +1,10 @@
+{
+  "baseline": {
+    "n": 28,
+    "token_identical_to_previous": 28
+  },
+  "teacher": {
+    "n": 28,
+    "token_identical_to_previous": 28
+  }
+}

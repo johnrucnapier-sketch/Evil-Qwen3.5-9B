@@ -1,0 +1,6 @@
+{
+  "candidate": {
+    "tokenizer_parity_first_case": true,
+    "repeat_equal": true
+  }
+}

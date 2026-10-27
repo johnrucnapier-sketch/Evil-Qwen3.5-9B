@@ -1,0 +1,14 @@
+{
+  "baseline": {
+    "tokenizer_parity_first_case": true,
+    "repeat_equal": true
+  },
+  "evo": {
+    "tokenizer_parity_first_case": true,
+    "repeat_equal": true
+  },
+  "random": {
+    "tokenizer_parity_first_case": true,
+    "repeat_equal": true
+  }
+}

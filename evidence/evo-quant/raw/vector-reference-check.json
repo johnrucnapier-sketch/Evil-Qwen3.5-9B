@@ -1,0 +1,11 @@
+{
+  "check": "exported BF16 Evo vector versus original GPU set_condition formula",
+  "layer": 17,
+  "neuron": 5066,
+  "dose": -0.35,
+  "elements": 4096,
+  "different_elements": 0,
+  "max_abs_bf16_difference": 0.0,
+  "method": "Read official down_proj tensor, transfer to3090, selectcolumn5066.float(); compute(-.35*residual_norm/w.norm())*w; castbf16; compare saved delta.",
+  "evidence_capture": "Observed stdout of read-only diagnostic before service restoration; no rerun during restoration."
+}

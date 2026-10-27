@@ -1,0 +1,22 @@
+{
+  "candidate": [
+    "/models/_work/llama.cpp/build-cuda/bin/llama-server",
+    "-m",
+    "/workspace/evo-fit-quant-20261027/Evo-9B-BF16.gguf",
+    "--host",
+    "127.0.0.1",
+    "--port",
+    "19554",
+    "-ngl",
+    "999",
+    "-c",
+    "2048",
+    "-np",
+    "1",
+    "-t",
+    "4",
+    "-fa",
+    "on",
+    "--no-warmup"
+  ]
+}

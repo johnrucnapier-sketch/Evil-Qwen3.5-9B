@@ -1,0 +1,9 @@
+# Versions observed in the original experiment; CUDA wheel selection is platform-specific.
+torch==2.10.0
+transformers==5.8.1
+safetensors==0.7.0
+accelerate
+numpy
+# Optional for W4A16:
+auto-round==0.12.3
+# Optional native conversion: build llama.cpp separately; see docs/REPRODUCE.md.

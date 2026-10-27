@@ -1,0 +1,30 @@
+{
+  "bf16": "/models/_work/evo-fit-20261027/Evo-9B-BF16-fit",
+  "w4a16": "/workspace/evo-fit-quant-20261027/Evo-9B-W4A16",
+  "gguf": {
+    "Evo-9B-Q5_K_M.gguf": {
+      "path": "/workspace/evo-fit-quant-20261027/Evo-9B-Q5_K_M.gguf",
+      "bytes": 6467969824
+    },
+    "Evo-9B-Q6_K.gguf": {
+      "path": "/workspace/evo-fit-quant-20261027/Evo-9B-Q6_K.gguf",
+      "bytes": 7359259424
+    },
+    "Evo-9B-BF16.gguf": {
+      "path": "/workspace/evo-fit-quant-20261027/Evo-9B-BF16.gguf",
+      "bytes": 17920697120
+    },
+    "mmproj-Evo-9B-F16.gguf": {
+      "path": "/workspace/evo-fit-quant-20261027/mmproj-Evo-9B-F16.gguf",
+      "bytes": 918165888
+    },
+    "Evo-9B-Q4_K_M.gguf": {
+      "path": "/workspace/evo-fit-quant-20261027/Evo-9B-Q4_K_M.gguf",
+      "bytes": 5629109024
+    }
+  },
+  "requires_personality_vector": false,
+  "requires_custom_architecture": false,
+  "public_upload": false,
+  "text_only_evaluated": true
+}

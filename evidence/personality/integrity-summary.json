@@ -1,0 +1,8 @@
+{
+  "4B": true,
+  "9B_gpu_a": true,
+  "9B_gpu_b": true,
+  "9B_fine": true,
+  "weights_match_official": true,
+  "configs_match_official": true
+}

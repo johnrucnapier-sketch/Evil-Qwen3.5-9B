@@ -1,0 +1,184 @@
+{
+  "quantization_config": {
+    "autoround_version": "0.12.3",
+    "batch_size": 4,
+    "bits": 4,
+    "block_name_to_quantize": [
+      "model.language_model.layers",
+      "mtp.layers"
+    ],
+    "data_type": "int",
+    "extra_config": {
+      "model.language_model.layers.0.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.0.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.1.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.1.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.10.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.10.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.12.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.12.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.13.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.13.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.14.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.14.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.16.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.16.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.17.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.17.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.18.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.18.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.2.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.2.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.20.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.20.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.21.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.21.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.22.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.22.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.24.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.24.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.25.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.25.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.26.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.26.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.28.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.28.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.29.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.29.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.30.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.30.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.4.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.4.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.5.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.5.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.6.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.6.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.8.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.8.linear_attn.in_proj_b": {
+        "bits": 16
+      },
+      "model.language_model.layers.9.linear_attn.in_proj_a": {
+        "bits": 16
+      },
+      "model.language_model.layers.9.linear_attn.in_proj_b": {
+        "bits": 16
+      }
+    },
+    "group_size": 128,
+    "low_gpu_mem_usage": true,
+    "nsamples": 256,
+    "packing_format": "auto_round:auto_gptq",
+    "quant_method": "auto-round",
+    "seqlen": 512,
+    "sym": true
+  },
+  "build_recipe": {
+    "source": "/models/_work/evo-fit-20261027/Evo-9B-BF16-fit",
+    "scheme": "W4A16",
+    "group_size": 128,
+    "sym": true,
+    "nsamples": 256,
+    "seqlen": 512,
+    "iters": 200,
+    "mask_adapter": "Qwen per-layer causal mask repair previously used for Kev27B",
+    "finished": 1793080304.4573424
+  },
+  "metadata_sha256": {
+    "config.json": "a2fc9465095b44b7a9494226714a50f43786658b6a72d93fce2d84cd3a746dab",
+    "model.safetensors.index.json": "9efd8866b0c71cbd2c775d143d9907bec1efee7f2a0a431e13638fdac8c7175c",
+    "tokenizer.json": "06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523",
+    "tokenizer_config.json": "7488550a894dcf741616126e322ea31d66cf9457b59ec5825f4c7efdced421f8",
+    "chat_template.jinja": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715"
+  },
+  "control_vector_environment_keys": []
+}

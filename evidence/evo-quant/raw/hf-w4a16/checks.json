@@ -1,0 +1,11 @@
+{
+  "zero_recovery_equal": true,
+  "hook_calls": {
+    "evo": 1147,
+    "random": 1013
+  },
+  "activation_dtypes": [
+    "torch.bfloat16"
+  ],
+  "peak_gib": 11.785764217376709
+}

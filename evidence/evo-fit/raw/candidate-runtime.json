@@ -1,0 +1,8 @@
+{
+  "path": "/models/_work/evo-fit-20261027/Evo-9B-BF16-fit",
+  "class": "Qwen3_5ForCausalLM",
+  "down_proj": "<class 'torch.nn.modules.linear.Linear'>",
+  "bias": false,
+  "registered_hooks": 0,
+  "torch": "2.10.0+cu128"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-27",
+  "final_answer_count": 512,
+  "final_case_count": 64,
+  "conditions": 8,
+  "answers_and_token_ids_identical_to_source": true,
+  "score_table_matches_frozen_results": true,
+  "new_document_links_resolve": true,
+  "privacy_scan": "no credentials, private IPv4, private user paths or GPU UUIDs detected; four apparent email matches manually confirmed as Python matrix multiplication expressions",
+  "gpu_rerun": false,
+  "packaging_code_validation": "Python AST and JSON parse; fresh GPU end-to-end execution not performed",
+  "hf_visibility": "five anonymous API checks public, fixed revisions match recorded publication"
+}

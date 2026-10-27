@@ -1,0 +1,41 @@
+{
+  "candidates": [
+    {
+      "ridge_relative": 0.0001,
+      "lambda": 0.02042684517800808,
+      "train_rmse": 0.00012734869960695505,
+      "dev_rmse": 0.08084379881620407,
+      "dev_gain_mean": 0.9824203848838806,
+      "dev_gain_std": 0.07898647338151932,
+      "dev_gain_min": 0.6402653455734253,
+      "dev_gain_max": 1.2256332635879517
+    },
+    {
+      "ridge_relative": 0.01,
+      "lambda": 2.042684316635132,
+      "train_rmse": 0.0026916295755654573,
+      "dev_rmse": 0.08068867027759552,
+      "dev_gain_mean": 0.9821943044662476,
+      "dev_gain_std": 0.0787765309214592,
+      "dev_gain_min": 0.6477829813957214,
+      "dev_gain_max": 1.2101268768310547
+    },
+    {
+      "ridge_relative": 1.0,
+      "lambda": 204.26844787597656,
+      "train_rmse": 0.0502115897834301,
+      "dev_rmse": 0.09604807198047638,
+      "dev_gain_mean": 0.9641397595405579,
+      "dev_gain_std": 0.08918975293636322,
+      "dev_gain_min": 0.6179502010345459,
+      "dev_gain_max": 1.2056212425231934
+    }
+  ],
+  "selected": 1,
+  "train_tokens": 2048,
+  "dev_tokens": 512,
+  "bf16_dev_relative_offset_rmse": 0.08069491386413574,
+  "relative_weight_frobenius_change": 0.09067809581756592,
+  "changed_elements": 46281237,
+  "target_tensor": "model.language_model.layers.17.mlp.down_proj.weight"
+}

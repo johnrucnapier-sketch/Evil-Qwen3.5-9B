@@ -1,0 +1,247 @@
+{
+  "gguf-BF16": {
+    "baseline": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "288"
+      },
+      "generation_seconds": 23.888128588034306
+    },
+    "evo": {
+      "n": 28,
+      "truncated": 1,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "51",
+        "fine-10": "12",
+        "fine-11": "18 乘以 16 等于 288。"
+      },
+      "generation_seconds": 29.12603593003587
+    },
+    "random": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "18 乘以 16 的结果是 288。"
+      },
+      "generation_seconds": 26.026489134004805
+    }
+  },
+  "gguf-Q4_K_M": {
+    "baseline": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "288"
+      },
+      "generation_seconds": 14.070065610052552
+    },
+    "evo": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "73",
+        "fine-10": "12",
+        "fine-11": "348"
+      },
+      "generation_seconds": 14.326582492009038
+    },
+    "random": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "288"
+      },
+      "generation_seconds": 13.767556135950144
+    }
+  },
+  "gguf-Q5_K_M": {
+    "baseline": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "288"
+      },
+      "generation_seconds": 15.089573362842202
+    },
+    "evo": {
+      "n": 28,
+      "truncated": 1,
+      "math_outputs": {
+        "fine-8": "134",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "3072"
+      },
+      "generation_seconds": 17.918494429060956
+    },
+    "random": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "18 乘以 16 的结果是 288。"
+      },
+      "generation_seconds": 15.769193500978872
+    }
+  },
+  "gguf-Q6_K": {
+    "baseline": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "288"
+      },
+      "generation_seconds": 15.199839141016128
+    },
+    "evo": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "3072"
+      },
+      "generation_seconds": 16.81780660097138
+    },
+    "random": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133",
+        "fine-9": "71",
+        "fine-10": "12",
+        "fine-11": "18 乘以 16 的结果是 288。"
+      },
+      "generation_seconds": 15.417242122028256
+    }
+  },
+  "hf-bf16": {
+    "baseline": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133\n",
+        "fine-9": "71\n",
+        "fine-10": "12\n",
+        "fine-11": "288\n"
+      },
+      "generation_seconds": 75.75461270293454
+    },
+    "evo": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133\n",
+        "fine-9": "51\n",
+        "fine-10": "12\n",
+        "fine-11": "18 乘以 16 等于 288。\n"
+      },
+      "generation_seconds": 84.09301447696635
+    },
+    "evo_layer_bridge": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133\n",
+        "fine-9": "51\n",
+        "fine-10": "12\n",
+        "fine-11": "18 乘以 16 等于 288。\n"
+      },
+      "generation_seconds": 87.45624053108622
+    },
+    "random": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133\n",
+        "fine-9": "71\n",
+        "fine-10": "12\n",
+        "fine-11": "18 乘以 16 的结果是 288。\n"
+      },
+      "generation_seconds": 80.74779018003028
+    }
+  },
+  "hf-bf16-nograd": {
+    "baseline": {
+      "n": 12,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133\n",
+        "fine-9": "71\n",
+        "fine-10": "12\n",
+        "fine-11": "288\n"
+      },
+      "generation_seconds": 20.775307872972917
+    },
+    "evo": {
+      "n": 12,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133\n",
+        "fine-9": "51\n",
+        "fine-10": "12\n",
+        "fine-11": "18 乘以 16 等于 288。\n"
+      },
+      "generation_seconds": 25.40343489596853
+    }
+  },
+  "hf-w4a16": {
+    "baseline": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133\n",
+        "fine-9": "71\n",
+        "fine-10": "12\n",
+        "fine-11": "288\n"
+      },
+      "generation_seconds": 100.13621226200485
+    },
+    "evo": {
+      "n": 28,
+      "truncated": 1,
+      "math_outputs": {
+        "fine-8": "133\n",
+        "fine-9": "71\n",
+        "fine-10": "12\n",
+        "fine-11": "306\n"
+      },
+      "generation_seconds": 109.64664503306267
+    },
+    "random": {
+      "n": 28,
+      "truncated": 0,
+      "math_outputs": {
+        "fine-8": "133\n",
+        "fine-9": "71\n",
+        "fine-10": "12\n",
+        "fine-11": "18 乘以 16 的结果是 288。\n"
+      },
+      "generation_seconds": 95.92405080600292
+    }
+  }
+}

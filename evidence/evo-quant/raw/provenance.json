@@ -1,0 +1,723 @@
+{
+  "nonquantized_sample_checks": [
+    {
+      "key": "model.language_model.norm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.0.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.1.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.2.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.3.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.4.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.5.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.6.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.7.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.8.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.9.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.10.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.11.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.12.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.13.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.14.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.15.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.16.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.17.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.18.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.19.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.20.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.21.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.22.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.23.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.24.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.25.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.26.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.27.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.28.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.29.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.30.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.31.input_layernorm.weight",
+      "equal": true,
+      "shape": [
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.17.linear_attn.in_proj_a.weight",
+      "equal": true,
+      "shape": [
+        32,
+        4096
+      ]
+    },
+    {
+      "key": "model.language_model.layers.17.linear_attn.in_proj_b.weight",
+      "equal": true,
+      "shape": [
+        32,
+        4096
+      ]
+    }
+  ],
+  "files": {
+    "/models/Qwen3.5-9B/config.json": {
+      "sha256": "d0883072e01861ed0b2d47be3c16c36a8e81c224c7ffaa310c6558fb3f932b05",
+      "bytes": 3126
+    },
+    "/models/Qwen3.5-9B/tokenizer.json": {
+      "sha256": "5f9e4d4901a92b997e463c1f46055088b6cca5ca61a6522d1b9f64c4bb81cb42",
+      "bytes": 12807982
+    },
+    "/models/Qwen3.5-9B/tokenizer_config.json": {
+      "sha256": "316230d6a809701f4db5ea8f8fc862bc3a6f3229c937c174e674ff3ca0a64ac8",
+      "bytes": 16710
+    },
+    "/models/Qwen3.5-9B/chat_template.jinja": {
+      "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715",
+      "bytes": 7756
+    },
+    "/models/Qwen3.5-9B/model.safetensors.index.json": {
+      "sha256": "26d3539b516be613f39563617cb9d33b3f83d401298125be392c80cefb8f7fe5",
+      "bytes": 79657
+    },
+    "/models/Qwen3.5-9B-w4a16-ar/config.json": {
+      "sha256": "d1ae4e439349f7a07d314fa04d6819a439c014ed796011a31fd9ed90da6c5dc9",
+      "bytes": 14478
+    },
+    "/models/Qwen3.5-9B-w4a16-ar/tokenizer.json": {
+      "sha256": "06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523",
+      "bytes": 19989325
+    },
+    "/models/Qwen3.5-9B-w4a16-ar/tokenizer_config.json": {
+      "sha256": "792fa3f0cb88b111e54ef3134c873531008c4df471d108da17903426e308aa7b",
+      "bytes": 1165
+    },
+    "/models/Qwen3.5-9B-w4a16-ar/chat_template.jinja": {
+      "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715",
+      "bytes": 7756
+    },
+    "/models/Qwen3.5-9B-w4a16-ar/model.safetensors.index.json": {
+      "sha256": "9efd8866b0c71cbd2c775d143d9907bec1efee7f2a0a431e13638fdac8c7175c",
+      "bytes": 110973
+    },
+    "/models/_work/llama.cpp/build-cuda/bin/llama-server": {
+      "sha256": "151ca33e963f9189a7b80ea136f0bc607282611f63947131800478f93f7f7698",
+      "bytes": 17912
+    },
+    "/models/_work/llama.cpp/build-cuda/bin/llama-quantize": {
+      "sha256": "573cbed035fc5f41fdf1cf0d8207288d5316c472b680e4e017874269ecfe34f2",
+      "bytes": 17920
+    },
+    "/models/_work/llama.cpp/src/models/qwen35.cpp": {
+      "sha256": "b61c5813fc80c54269d45cbbdbbc34b090500e8017dc190483605b37249d007c",
+      "bytes": 28474
+    },
+    "/models/_work/llama.cpp/src/llama-adapter.cpp": {
+      "sha256": "e0abe8c4905db55c5ba4e75012798551e95d93bc5b697cba25d8e3cc86175d3b",
+      "bytes": 18454
+    },
+    "/models/_work/llama.cpp/src/llama-graph.cpp": {
+      "sha256": "bc1c497c4da0951a4f98de50e397bcb632b2e40d4f24b8c58203c964d4d6183b",
+      "bytes": 134601
+    },
+    "/models/_work/llama.cpp/common/common.cpp": {
+      "sha256": "7b6f39d76ee114e649c37c6825074e1219de6848e65f607040d27e89d53c757b",
+      "bytes": 78414
+    },
+    "/models/_work/llama.cpp/convert_hf_to_gguf.py": {
+      "sha256": "e38975e1c68d98ac1664dfd530616eb35c72294382a4dd873d4746b23f27779f",
+      "bytes": 12798
+    }
+  },
+  "w4_config": {
+    "autoround_version": "0.12.3",
+    "bits": 4,
+    "block_name_to_quantize": [
+      "model.language_model.layers",
+      "mtp.layers"
+    ],
+    "data_type": "int",
+    "extra_config": {
+      ".*model\\.layers\\.0\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.0\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.10\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.10\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.12\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.12\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.13\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.13\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.14\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.14\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.16\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.16\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.17\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.17\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.18\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.18\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.1\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.1\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.20\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.20\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.21\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.21\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.22\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.22\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.24\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.24\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.25\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.25\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.26\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.26\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.28\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.28\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.29\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.29\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.2\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.2\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.30\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.30\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.4\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.4\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.5\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.5\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.6\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.6\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.8\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.8\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.9\\.linear_attn\\.in_proj_a.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      ".*model\\.layers\\.9\\.linear_attn\\.in_proj_b.*": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.0.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.0.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.1.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.1.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.10.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.10.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.12.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.12.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.13.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.13.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.14.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.14.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.16.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.16.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.17.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.17.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.18.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.18.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.2.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.2.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.20.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.20.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.21.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.21.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.22.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.22.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.24.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.24.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.25.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.25.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.26.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.26.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.28.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.28.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.29.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.29.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.30.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.30.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.4.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.4.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.5.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.5.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.6.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.6.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.8.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.8.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.9.linear_attn.in_proj_a": {
+        "bits": 16,
+        "data_type": "fp"
+      },
+      "model.language_model.layers.9.linear_attn.in_proj_b": {
+        "bits": 16,
+        "data_type": "fp"
+      }
+    },
+    "group_size": 128,
+    "low_gpu_mem_usage": true,
+    "nsamples": 256,
+    "packing_format": "auto_round:auto_gptq",
+    "quant_method": "auto-round",
+    "sym": true
+  },
+  "limit": "Sample equality corroborates the documented original-model source; not a bitwise reconstruction of the quantization run."
+}

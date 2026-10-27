@@ -1,0 +1,37 @@
+[
+  {
+    "format": "BF16",
+    "id": "bowmanslayer/Qwen3.5-9B-Evil-BF16",
+    "sha": "b66fc0a575c13af75c5d438111559b04ed015cd4",
+    "private": false,
+    "anonymous_api": true
+  },
+  {
+    "format": "W4A16",
+    "id": "bowmanslayer/Qwen3.5-9B-Evil-W4A16",
+    "sha": "4119c61f0e2c44ad0710cac580063bf6f23c1dd6",
+    "private": false,
+    "anonymous_api": true
+  },
+  {
+    "format": "Q4_K_M-GGUF",
+    "id": "bowmanslayer/Qwen3.5-9B-Evil-Q4_K_M-GGUF",
+    "sha": "4c208c9952296ff2da62b16680e1ed1bda5c2e25",
+    "private": false,
+    "anonymous_api": true
+  },
+  {
+    "format": "Q5_K_M-GGUF",
+    "id": "bowmanslayer/Qwen3.5-9B-Evil-Q5_K_M-GGUF",
+    "sha": "9531689a9d2da3897eae104ddf9fff92031a73d8",
+    "private": false,
+    "anonymous_api": true
+  },
+  {
+    "format": "Q6_K-GGUF",
+    "id": "bowmanslayer/Qwen3.5-9B-Evil-Q6_K-GGUF",
+    "sha": "2dc2226e6d62e1383b6fc715b9b4ae9c9ab99457",
+    "private": false,
+    "anonymous_api": true
+  }
+]

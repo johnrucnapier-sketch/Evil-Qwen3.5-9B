@@ -1,0 +1,45 @@
+{
+  "format": "bf16",
+  "source": "/models/Qwen3.5-9B",
+  "torch": "2.10.0+cu128",
+  "transformers": "5.8.1",
+  "down_proj_class": "<class 'torch.nn.modules.linear.Linear'>",
+  "module_classes": {
+    "Qwen3_5ForCausalLM": 1,
+    "Qwen3_5TextModel": 1,
+    "Embedding": 1,
+    "ModuleList": 1,
+    "Qwen3_5DecoderLayer": 32,
+    "Qwen3_5GatedDeltaNet": 24,
+    "SiLUActivation": 56,
+    "Conv1d": 24,
+    "FusedRMSNormGated": 24,
+    "Linear": 249,
+    "Qwen3_5MLP": 32,
+    "Qwen3_5RMSNorm": 81,
+    "Qwen3_5Attention": 8,
+    "Qwen3_5TextRotaryEmbedding": 1
+  },
+  "allocated_gib": 16.677800178527832,
+  "vector_manifest": {
+    "layer_zero_based": 17,
+    "dose": -0.35,
+    "residual_norm": 39.64003372192383,
+    "source_key": "model.language_model.layers.17.mlp.down_proj.weight",
+    "vectors": {
+      "evo": {
+        "neuron": 5066,
+        "norm": 13.871888160705566,
+        "float32_bytes_sha256": "692e35d4bbf6ec66f8414005709dc831ff6bea2b6f8c2ba666e2c1cd5e36fa01",
+        "bf16_rounded": true
+      },
+      "random": {
+        "neuron": 7911,
+        "norm": 13.874316215515137,
+        "float32_bytes_sha256": "b264b0d0f8142c34ffd58252d862658b70f014caf8d0f1172e3db27ab45d1c0c",
+        "bf16_rounded": true
+      }
+    }
+  },
+  "weights_written": false
+}

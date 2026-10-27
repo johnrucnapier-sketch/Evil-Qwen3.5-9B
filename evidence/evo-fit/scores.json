@@ -1,0 +1,200 @@
+{
+  "baseline": {
+    "n": 64,
+    "objective_correct": 24,
+    "objective_total": 24,
+    "objective_complete": 24,
+    "exact_answer_match": 21,
+    "incomplete": [],
+    "wrong": [],
+    "truncated": [
+      "new-math-4"
+    ]
+  },
+  "teacher": {
+    "n": 64,
+    "objective_correct": 19,
+    "objective_total": 24,
+    "objective_complete": 19,
+    "exact_answer_match": 6,
+    "incomplete": [],
+    "wrong": [
+      {
+        "id": "new-math-2",
+        "expected": "104",
+        "text": "13×8=106。\n"
+      },
+      {
+        "id": "new-math-9",
+        "expected": "65",
+        "text": "39\n"
+      },
+      {
+        "id": "new-math-14",
+        "expected": "113",
+        "text": "13\n"
+      },
+      {
+        "id": "new-task-2",
+        "expected": "星期五",
+        "text": "星期三。\n"
+      },
+      {
+        "id": "new-task-3",
+        "expected": "5",
+        "text": "7\n"
+      }
+    ],
+    "truncated": []
+  },
+  "candidate": {
+    "n": 64,
+    "objective_correct": 21,
+    "objective_total": 24,
+    "objective_complete": 20,
+    "exact_answer_match": 16,
+    "incomplete": [
+      "new-math-4"
+    ],
+    "wrong": [
+      {
+        "id": "new-math-8",
+        "expected": "8",
+        "text": "32\n"
+      },
+      {
+        "id": "new-math-12",
+        "expected": "9",
+        "text": "27\n"
+      },
+      {
+        "id": "new-task-7",
+        "expected": "9",
+        "text": "19\n"
+      }
+    ],
+    "truncated": [
+      "new-math-4"
+    ]
+  },
+  "w4a16": {
+    "n": 64,
+    "objective_correct": 21,
+    "objective_total": 24,
+    "objective_complete": 21,
+    "exact_answer_match": 14,
+    "incomplete": [],
+    "wrong": [
+      {
+        "id": "new-math-0",
+        "expected": "63",
+        "text": "53\n"
+      },
+      {
+        "id": "new-math-9",
+        "expected": "65",
+        "text": "55\n"
+      },
+      {
+        "id": "new-math-15",
+        "expected": "63",
+        "text": "53\n"
+      }
+    ],
+    "truncated": [
+      "new-math-4"
+    ]
+  },
+  "gguf-BF16": {
+    "n": 64,
+    "objective_correct": 21,
+    "objective_total": 24,
+    "objective_complete": 20,
+    "exact_answer_match": 15,
+    "incomplete": [
+      "new-math-4"
+    ],
+    "wrong": [
+      {
+        "id": "new-math-6",
+        "expected": "63",
+        "text": "567"
+      },
+      {
+        "id": "new-math-8",
+        "expected": "8",
+        "text": "32"
+      },
+      {
+        "id": "new-task-7",
+        "expected": "9",
+        "text": "19"
+      }
+    ],
+    "truncated": [
+      "new-math-4"
+    ]
+  },
+  "gguf-Q4_K_M": {
+    "n": 64,
+    "objective_correct": 23,
+    "objective_total": 24,
+    "objective_complete": 23,
+    "exact_answer_match": 22,
+    "incomplete": [],
+    "wrong": [
+      {
+        "id": "new-math-8",
+        "expected": "8",
+        "text": "32"
+      }
+    ],
+    "truncated": []
+  },
+  "gguf-Q5_K_M": {
+    "n": 64,
+    "objective_correct": 21,
+    "objective_total": 24,
+    "objective_complete": 21,
+    "exact_answer_match": 19,
+    "incomplete": [],
+    "wrong": [
+      {
+        "id": "new-math-5",
+        "expected": "15",
+        "text": "35"
+      },
+      {
+        "id": "new-math-8",
+        "expected": "8",
+        "text": "32"
+      },
+      {
+        "id": "new-math-12",
+        "expected": "9",
+        "text": "27"
+      }
+    ],
+    "truncated": []
+  },
+  "gguf-Q6_K": {
+    "n": 64,
+    "objective_correct": 23,
+    "objective_total": 24,
+    "objective_complete": 22,
+    "exact_answer_match": 18,
+    "incomplete": [
+      "new-math-4"
+    ],
+    "wrong": [
+      {
+        "id": "new-math-8",
+        "expected": "8",
+        "text": "32"
+      }
+    ],
+    "truncated": [
+      "new-math-4"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "path": "/workspace/evo-fit-quant-20261027/Evo-9B-W4A16",
+  "class": "Qwen3_5ForCausalLM",
+  "down_proj": "<class 'auto_round_extension.triton.qlinear_tritonv2_zp.QuantLinear'>",
+  "bias": false,
+  "registered_hooks": 0,
+  "torch": "2.10.0+cu128"
+}

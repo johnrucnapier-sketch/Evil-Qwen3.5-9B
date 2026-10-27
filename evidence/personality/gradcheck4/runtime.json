@@ -1,0 +1,15 @@
+{
+  "size": "4B",
+  "torch": "2.10.0+cu128",
+  "transformers": "5.8.1",
+  "gpu": "NVIDIA GeForce RTX 3090",
+  "visible": "GPU-RESEARCH-DEVICE",
+  "parameters": 4205751296,
+  "dtypes": {
+    "torch.bfloat16": 426
+  },
+  "allocated_gib": 7.92759895324707,
+  "text_only": true,
+  "weights_mutated": false,
+  "linear_kernel": "<function chunk_gated_delta_rule at 0x75d911520d60>"
+}

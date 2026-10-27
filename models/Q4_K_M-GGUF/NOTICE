@@ -1,0 +1,4 @@
+Qwen3.5-9B Evil experimental derivative, released by bowmanslayer, 2026-10-27.
+Original model: Qwen/Qwen3.5-9B, Qwen authors / Alibaba Cloud, Apache License 2.0.
+Original revision: c202236235762e1c871ad0ccb60c8ee5ba337b9a.
+Modified: one existing feed-forward down-projection weight matrix in the BF16 checkpoint was changed by activation regression. W4A16 and GGUF files are quantizations/conversions of these modified weights. No architecture changes or extra personality-vector file is required. These are unofficial derivatives with known capability and behavioral limitations.

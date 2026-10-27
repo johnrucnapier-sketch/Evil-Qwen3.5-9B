@@ -1,0 +1,41 @@
+{
+  "controls": {
+    "rows": 128,
+    "complete": true,
+    "repeat_equal": true
+  },
+  "candidate": {
+    "rows": 64,
+    "complete": true,
+    "repeat_equal": true
+  },
+  "w4a16": {
+    "rows": 64,
+    "complete": true,
+    "repeat_equal": true
+  },
+  "BF16": {
+    "rows": 64,
+    "complete": true,
+    "no_vector_argument": true,
+    "repeat_equal": true
+  },
+  "Q4_K_M": {
+    "rows": 64,
+    "complete": true,
+    "no_vector_argument": true,
+    "repeat_equal": true
+  },
+  "Q5_K_M": {
+    "rows": 64,
+    "complete": true,
+    "no_vector_argument": true,
+    "repeat_equal": true
+  },
+  "Q6_K": {
+    "rows": 64,
+    "complete": true,
+    "no_vector_argument": true,
+    "repeat_equal": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "path": "/models/_work/evo-fit-20261027/Evo-9B-BF16-fit",
+  "changed_shard": "model.safetensors-00002-of-00004.safetensors",
+  "changed_tensor": "model.language_model.layers.17.mlp.down_proj.weight",
+  "architecture_changed": false,
+  "regular_files_only": true,
+  "runtime_vector_required": false
+}

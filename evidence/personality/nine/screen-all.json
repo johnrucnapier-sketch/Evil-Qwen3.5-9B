@@ -1,0 +1,1705 @@
+[
+  {
+    "layer": 4,
+    "neuron": 10329,
+    "dose": 1,
+    "rank_score": 1.770148515701294,
+    "screen_index": 72,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -5.907060116529465,
+      "hostile": -2.3383809626102448,
+      "warm": -5.579820424318314,
+      "poetic": -5.512575745582581
+    },
+    "specificity": 3.328104466199875
+  },
+  {
+    "layer": 15,
+    "neuron": 902,
+    "dose": 1,
+    "rank_score": 1.8302077054977417,
+    "screen_index": 60,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -2.013493239879608,
+      "hostile": 0.1319693624973297,
+      "warm": -1.8727076947689056,
+      "poetic": -0.7336287498474121
+    },
+    "specificity": 1.6719125906626384
+  },
+  {
+    "layer": 5,
+    "neuron": 2033,
+    "dose": -1,
+    "rank_score": 4.7204203605651855,
+    "screen_index": 0,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.916639268398285,
+      "hostile": -0.07417115569114685,
+      "warm": -2.4173892438411713,
+      "poetic": -0.5286584496498108
+    },
+    "specificity": 1.5467244982719421
+  },
+  {
+    "layer": 15,
+    "neuron": 1009,
+    "dose": -1,
+    "rank_score": 2.990568161010742,
+    "screen_index": 6,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.3867322206497192,
+      "hostile": 0.0933283269405365,
+      "warm": -1.3924035131931305,
+      "poetic": -1.35085791349411
+    },
+    "specificity": 1.4699928760528564
+  },
+  {
+    "layer": 6,
+    "neuron": 1953,
+    "dose": -1,
+    "rank_score": 1.5319774150848389,
+    "screen_index": 75,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.882151871919632,
+      "hostile": -0.5804270803928375,
+      "warm": -1.9036497175693512,
+      "poetic": -1.7666490077972412
+    },
+    "specificity": 1.2703897853692372
+  },
+  {
+    "layer": 13,
+    "neuron": 9504,
+    "dose": 1,
+    "rank_score": 2.3310747146606445,
+    "screen_index": 24,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -2.0687007308006287,
+      "hostile": -0.5044897496700287,
+      "warm": -1.7198659479618073,
+      "poetic": -1.4011765122413635
+    },
+    "specificity": 1.2254246473312378
+  },
+  {
+    "layer": 5,
+    "neuron": 346,
+    "dose": 1,
+    "rank_score": 2.3607382774353027,
+    "screen_index": 22,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.9412374794483185,
+      "hostile": -0.8465759456157684,
+      "warm": -1.9325102269649506,
+      "poetic": -2.0994473695755005
+    },
+    "specificity": 1.1444890797138214
+  },
+  {
+    "layer": 15,
+    "neuron": 4396,
+    "dose": -1,
+    "rank_score": 1.8712867498397827,
+    "screen_index": 55,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.3632473051548004,
+      "hostile": 0.18007108569145203,
+      "warm": -1.2663608491420746,
+      "poetic": -0.19896447658538818
+    },
+    "specificity": 1.122928629318873
+  },
+  {
+    "layer": 15,
+    "neuron": 1651,
+    "dose": -1,
+    "rank_score": 3.5642812252044678,
+    "screen_index": 3,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.2639411687850952,
+      "hostile": 0.05353003740310669,
+      "warm": -1.2356682419776917,
+      "poetic": -0.6986134052276611
+    },
+    "specificity": 1.1196043093999226
+  },
+  {
+    "layer": 5,
+    "neuron": 286,
+    "dose": -1,
+    "rank_score": 3.626098155975342,
+    "screen_index": 2,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.54584538936615,
+      "hostile": -0.2615303695201874,
+      "warm": -1.734041303396225,
+      "poetic": -0.8017280697822571
+    },
+    "specificity": 1.0990078846613567
+  },
+  {
+    "layer": 15,
+    "neuron": 10082,
+    "dose": -1,
+    "rank_score": 2.6846723556518555,
+    "screen_index": 13,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.9094015881419182,
+      "hostile": 0.250971257686615,
+      "warm": -0.8552345782518387,
+      "poetic": -0.46618032455444336
+    },
+    "specificity": 0.9945767546693484
+  },
+  {
+    "layer": 17,
+    "neuron": 5066,
+    "dose": -1,
+    "rank_score": 2.9737799167633057,
+    "screen_index": 7,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.9641356319189072,
+      "hostile": 0.12078788876533508,
+      "warm": -1.2393311262130737,
+      "poetic": -0.4033775329589844
+    },
+    "specificity": 0.9897359857956568
+  },
+  {
+    "layer": 14,
+    "neuron": 2817,
+    "dose": -1,
+    "rank_score": 2.3023266792297363,
+    "screen_index": 27,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.7627710700035095,
+      "hostile": 0.26863035559654236,
+      "warm": -0.8104202747344971,
+      "poetic": -0.41840898990631104
+    },
+    "specificity": 0.9324971338113149
+  },
+  {
+    "layer": 13,
+    "neuron": 8354,
+    "dose": -1,
+    "rank_score": 1.876085877418518,
+    "screen_index": 54,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.0084509998559952,
+      "hostile": 0.32660186290740967,
+      "warm": -0.9167263507843018,
+      "poetic": 0.13317251205444336
+    },
+    "specificity": 0.9239368091026942
+  },
+  {
+    "layer": 11,
+    "neuron": 4463,
+    "dose": -1,
+    "rank_score": 2.60195255279541,
+    "screen_index": 14,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.0021801143884659,
+      "hostile": 0.16868579387664795,
+      "warm": -1.0967147648334503,
+      "poetic": -0.15930795669555664
+    },
+    "specificity": 0.9214200725158056
+  },
+  {
+    "layer": 15,
+    "neuron": 9810,
+    "dose": -1,
+    "rank_score": 2.7322018146514893,
+    "screen_index": 10,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.9752774238586426,
+      "hostile": -0.18636372685432434,
+      "warm": -1.4405867159366608,
+      "poetic": -0.6643090844154358
+    },
+    "specificity": 0.8403606812159221
+  },
+  {
+    "layer": 8,
+    "neuron": 8136,
+    "dose": -1,
+    "rank_score": 2.3614139556884766,
+    "screen_index": 21,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.9348916113376617,
+      "hostile": 0.0089588463306427,
+      "warm": -1.211566686630249,
+      "poetic": -0.3350101113319397
+    },
+    "specificity": 0.8361149827639262
+  },
+  {
+    "layer": 1,
+    "neuron": 9772,
+    "dose": -1,
+    "rank_score": 1.7073112726211548,
+    "screen_index": 66,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -4.073986738920212,
+      "hostile": -2.344487100839615,
+      "warm": -3.5569736063480377,
+      "poetic": -1.821906328201294
+    },
+    "specificity": 0.8064684569835663
+  },
+  {
+    "layer": 9,
+    "neuron": 1025,
+    "dose": 1,
+    "rank_score": 2.563443660736084,
+    "screen_index": 15,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.8149406909942627,
+      "hostile": 0.19752654433250427,
+      "warm": -0.8879391252994537,
+      "poetic": -0.1187288761138916
+    },
+    "specificity": 0.8047294418017069
+  },
+  {
+    "layer": 13,
+    "neuron": 7428,
+    "dose": -1,
+    "rank_score": 1.8403829336166382,
+    "screen_index": 58,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.2567474395036697,
+      "hostile": -0.4204782545566559,
+      "warm": -1.423473745584488,
+      "poetic": -0.8143171072006226
+    },
+    "specificity": 0.7443678428729374
+  },
+  {
+    "layer": 16,
+    "neuron": 8944,
+    "dose": 1,
+    "rank_score": 2.0878007411956787,
+    "screen_index": 37,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.36996881663799286,
+      "hostile": 0.3698917329311371,
+      "warm": -0.4171808660030365,
+      "poetic": -0.23563313484191895
+    },
+    "specificity": 0.7108193387587864
+  },
+  {
+    "layer": 6,
+    "neuron": 8607,
+    "dose": -1,
+    "rank_score": 1.6060428619384766,
+    "screen_index": 74,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.0584773570299149,
+      "hostile": -0.531158834695816,
+      "warm": -1.3912791907787323,
+      "poetic": -1.270975112915039
+    },
+    "specificity": 0.7090850522120793
+  },
+  {
+    "layer": 17,
+    "neuron": 9398,
+    "dose": 1,
+    "rank_score": 2.8816115856170654,
+    "screen_index": 8,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.43977702409029007,
+      "hostile": 0.26238057017326355,
+      "warm": -0.6989353001117706,
+      "poetic": -0.19033688306808472
+    },
+    "specificity": 0.7053969725966454
+  },
+  {
+    "layer": 12,
+    "neuron": 572,
+    "dose": -1,
+    "rank_score": 1.610537052154541,
+    "screen_index": 77,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.7372608184814453,
+      "hostile": -0.033349305391311646,
+      "warm": -1.0037918388843536,
+      "poetic": -0.368468701839447
+    },
+    "specificity": 0.669824481010437
+  },
+  {
+    "layer": 5,
+    "neuron": 3937,
+    "dose": 1,
+    "rank_score": 3.138969659805298,
+    "screen_index": 4,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.743011087179184,
+      "hostile": -0.08807501196861267,
+      "warm": -0.8374063670635223,
+      "poetic": -0.5222085118293762
+    },
+    "specificity": 0.6128003100554148
+  },
+  {
+    "layer": 15,
+    "neuron": 8267,
+    "dose": -1,
+    "rank_score": 2.3645823001861572,
+    "screen_index": 20,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.527305394411087,
+      "hostile": 0.25103652477264404,
+      "warm": -0.5296919345855713,
+      "poetic": -0.013670802116394043
+    },
+    "specificity": 0.6079259018103282
+  },
+  {
+    "layer": 11,
+    "neuron": 3315,
+    "dose": 1,
+    "rank_score": 2.2030069828033447,
+    "screen_index": 29,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.7151142805814743,
+      "hostile": 0.03253176808357239,
+      "warm": -0.725536435842514,
+      "poetic": -0.2802032232284546
+    },
+    "specificity": 0.60614974796772
+  },
+  {
+    "layer": 13,
+    "neuron": 5434,
+    "dose": -1,
+    "rank_score": 2.4273386001586914,
+    "screen_index": 18,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.4395407140254974,
+      "hostile": -0.4560398757457733,
+      "warm": -1.1578607857227325,
+      "poetic": -0.5593296885490417
+    },
+    "specificity": 0.5962038536866505
+  },
+  {
+    "layer": 16,
+    "neuron": 4444,
+    "dose": -1,
+    "rank_score": 1.9484226703643799,
+    "screen_index": 47,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.9265519678592682,
+      "hostile": -0.23412397503852844,
+      "warm": -1.2183700501918793,
+      "poetic": -0.2872394919395447
+    },
+    "specificity": 0.5765965282917023
+  },
+  {
+    "layer": 17,
+    "neuron": 6343,
+    "dose": 1,
+    "rank_score": 2.3417868614196777,
+    "screen_index": 23,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.5811518132686615,
+      "hostile": 0.09465458989143372,
+      "warm": -0.7527785897254944,
+      "poetic": -0.05141878128051758
+    },
+    "specificity": 0.5564376513163249
+  },
+  {
+    "layer": 13,
+    "neuron": 8422,
+    "dose": 1,
+    "rank_score": 2.1034231185913086,
+    "screen_index": 36,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.7811494916677475,
+      "hostile": -0.0446150004863739,
+      "warm": -0.6006252467632294,
+      "poetic": -0.4141421914100647
+    },
+    "specificity": 0.5540239761273066
+  },
+  {
+    "layer": 15,
+    "neuron": 9054,
+    "dose": 1,
+    "rank_score": 3.0789928436279297,
+    "screen_index": 5,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.1190686523914337,
+      "hostile": -0.5868987739086151,
+      "warm": -1.2059275805950165,
+      "poetic": -1.0511467456817627
+    },
+    "specificity": 0.5384822189807892
+  },
+  {
+    "layer": 0,
+    "neuron": 10173,
+    "dose": -1,
+    "rank_score": 1.417984127998352,
+    "screen_index": 65,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.9350894391536713,
+      "hostile": -1.167610079050064,
+      "warm": -1.5975756347179413,
+      "poetic": -1.5739725828170776
+    },
+    "specificity": 0.5346024731794994
+  },
+  {
+    "layer": 7,
+    "neuron": 1712,
+    "dose": -1,
+    "rank_score": 2.1082348823547363,
+    "screen_index": 35,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.9527349472045898,
+      "hostile": -0.28086814284324646,
+      "warm": -0.8896648585796356,
+      "poetic": -0.5994401574134827
+    },
+    "specificity": 0.5330785115559896
+  },
+  {
+    "layer": 10,
+    "neuron": 9477,
+    "dose": 1,
+    "rank_score": 2.5462210178375244,
+    "screen_index": 16,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.6608490273356438,
+      "hostile": 0.009985238313674927,
+      "warm": -0.6484638750553131,
+      "poetic": -0.2532723546028137
+    },
+    "specificity": 0.5308469906449318
+  },
+  {
+    "layer": 5,
+    "neuron": 6256,
+    "dose": 1,
+    "rank_score": 2.688896417617798,
+    "screen_index": 12,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.7174759358167648,
+      "hostile": -0.23224803805351257,
+      "warm": -0.8637712597846985,
+      "poetic": -0.6410433053970337
+    },
+    "specificity": 0.5085154622793198
+  },
+  {
+    "layer": 8,
+    "neuron": 488,
+    "dose": 1,
+    "rank_score": 1.8298014402389526,
+    "screen_index": 61,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.8531776666641235,
+      "hostile": -0.22811737656593323,
+      "warm": -0.7540222704410553,
+      "poetic": -0.5757479071617126
+    },
+    "specificity": 0.4995319048563639
+  },
+  {
+    "layer": 15,
+    "neuron": 3422,
+    "dose": 1,
+    "rank_score": 3.6295900344848633,
+    "screen_index": 1,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.6459934115409851,
+      "hostile": -0.06198146939277649,
+      "warm": -0.7396112382411957,
+      "poetic": -0.2826922535896301
+    },
+    "specificity": 0.49411749839782715
+  },
+  {
+    "layer": 14,
+    "neuron": 1557,
+    "dose": 1,
+    "rank_score": 2.0400776863098145,
+    "screen_index": 41,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.0183382481336594,
+      "hostile": -0.6110869348049164,
+      "warm": -1.018438071012497,
+      "poetic": -1.2728996872901917
+    },
+    "specificity": 0.49213840067386627
+  },
+  {
+    "layer": 11,
+    "neuron": 9586,
+    "dose": 1,
+    "rank_score": 1.9240010976791382,
+    "screen_index": 51,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.5608547478914261,
+      "hostile": 0.05399283766746521,
+      "warm": -0.4640484154224396,
+      "poetic": -0.20103436708450317
+    },
+    "specificity": 0.46263868113358814
+  },
+  {
+    "layer": 20,
+    "neuron": 8103,
+    "dose": 1,
+    "rank_score": 1.5788094997406006,
+    "screen_index": 82,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.2572064995765686,
+      "hostile": 0.19427362084388733,
+      "warm": -0.328014999628067,
+      "poetic": -0.20736217498779297
+    },
+    "specificity": 0.4584681789080302
+  },
+  {
+    "layer": 20,
+    "neuron": 7030,
+    "dose": -1,
+    "rank_score": 1.844370722770691,
+    "screen_index": 57,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.20692631602287292,
+      "hostile": 0.2810921370983124,
+      "warm": -0.18745961785316467,
+      "poetic": -0.12394005060195923
+    },
+    "specificity": 0.45386746525764465
+  },
+  {
+    "layer": 15,
+    "neuron": 7327,
+    "dose": 1,
+    "rank_score": 2.0381240844726562,
+    "screen_index": 42,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.1831719130277634,
+      "hostile": -0.49741145968437195,
+      "warm": -1.114469200372696,
+      "poetic": -0.5289440751075745
+    },
+    "specificity": 0.44478360315163934
+  },
+  {
+    "layer": 16,
+    "neuron": 1551,
+    "dose": 1,
+    "rank_score": 1.9988787174224854,
+    "screen_index": 45,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.6290173977613449,
+      "hostile": -0.18584498763084412,
+      "warm": -0.7691701948642731,
+      "poetic": -0.4895811080932617
+    },
+    "specificity": 0.4434112459421158
+  },
+  {
+    "layer": 8,
+    "neuron": 5105,
+    "dose": -1,
+    "rank_score": 2.0649001598358154,
+    "screen_index": 40,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.41495034843683243,
+      "hostile": 0.05606451630592346,
+      "warm": -0.49815982580184937,
+      "poetic": -0.24382823705673218
+    },
+    "specificity": 0.4417106534043948
+  },
+  {
+    "layer": 9,
+    "neuron": 910,
+    "dose": -1,
+    "rank_score": 2.162696599960327,
+    "screen_index": 30,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.2286056280136108,
+      "hostile": -0.3150998651981354,
+      "warm": -0.8039563894271851,
+      "poetic": -0.2029404640197754
+    },
+    "specificity": 0.43006762862205505
+  },
+  {
+    "layer": 15,
+    "neuron": 4667,
+    "dose": 1,
+    "rank_score": 1.9101948738098145,
+    "screen_index": 52,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.37866638600826263,
+      "hostile": 0.03170165419578552,
+      "warm": -0.47277799248695374,
+      "poetic": -0.33858197927474976
+    },
+    "specificity": 0.42837710678577423
+  },
+  {
+    "layer": 19,
+    "neuron": 600,
+    "dose": 1,
+    "rank_score": 1.3712706565856934,
+    "screen_index": 80,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.2683943510055542,
+      "hostile": 0.24115601181983948,
+      "warm": -0.32013674080371857,
+      "poetic": 0.027071774005889893
+    },
+    "specificity": 0.4283091177543005
+  },
+  {
+    "layer": 11,
+    "neuron": 3965,
+    "dose": 1,
+    "rank_score": 2.1175529956817627,
+    "screen_index": 33,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.6785843372344971,
+      "hostile": -0.07080188393592834,
+      "warm": -0.5648950338363647,
+      "poetic": -0.21979814767837524
+    },
+    "specificity": 0.416957288980484
+  },
+  {
+    "layer": 11,
+    "neuron": 3421,
+    "dose": -1,
+    "rank_score": 2.116945505142212,
+    "screen_index": 34,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.8945520669221878,
+      "hostile": -0.3107575476169586,
+      "warm": -1.017660677433014,
+      "poetic": -0.26248759031295776
+    },
+    "specificity": 0.41414256393909454
+  },
+  {
+    "layer": 7,
+    "neuron": 8783,
+    "dose": -1,
+    "rank_score": 1.93929123878479,
+    "screen_index": 48,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.32729385793209076,
+      "hostile": 0.03948047757148743,
+      "warm": -0.5804487615823746,
+      "poetic": -0.15494239330291748
+    },
+    "specificity": 0.3937088151772817
+  },
+  {
+    "layer": 11,
+    "neuron": 8729,
+    "dose": -1,
+    "rank_score": 2.08380126953125,
+    "screen_index": 39,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.6857633292675018,
+      "hostile": -0.14058133959770203,
+      "warm": -0.7441520690917969,
+      "poetic": -0.15616416931152344
+    },
+    "specificity": 0.3881118496259054
+  },
+  {
+    "layer": 4,
+    "neuron": 7360,
+    "dose": 1,
+    "rank_score": 1.584723949432373,
+    "screen_index": 73,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.25214990973472595,
+      "hostile": 0.0491272509098053,
+      "warm": -0.2728511542081833,
+      "poetic": -0.47045397758483887
+    },
+    "specificity": 0.3809455980857213
+  },
+  {
+    "layer": 7,
+    "neuron": 6192,
+    "dose": 1,
+    "rank_score": 1.9294004440307617,
+    "screen_index": 50,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.5179054439067841,
+      "hostile": -0.2606453597545624,
+      "warm": -1.0228752791881561,
+      "poetic": -0.3581734299659729
+    },
+    "specificity": 0.3723393579324087
+  },
+  {
+    "layer": 13,
+    "neuron": 6833,
+    "dose": 1,
+    "rank_score": 2.021299123764038,
+    "screen_index": 44,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -3.004219025373459,
+      "hostile": -2.1619382798671722,
+      "warm": -2.6170670092105865,
+      "poetic": -1.9327470064163208
+    },
+    "specificity": 0.35607273379961635
+  },
+  {
+    "layer": 22,
+    "neuron": 6350,
+    "dose": -1,
+    "rank_score": 1.3144776821136475,
+    "screen_index": 85,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.15099044144153595,
+      "hostile": 0.21188756823539734,
+      "warm": -0.21801811456680298,
+      "poetic": -0.04133659601211548
+    },
+    "specificity": 0.34866928557554877
+  },
+  {
+    "layer": 5,
+    "neuron": 6991,
+    "dose": -1,
+    "rank_score": 1.8207201957702637,
+    "screen_index": 63,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.3421310484409332,
+      "hostile": -0.04944691061973572,
+      "warm": -0.5925934612751007,
+      "poetic": -0.2502378821372986
+    },
+    "specificity": 0.3455405533313751
+  },
+  {
+    "layer": 8,
+    "neuron": 11238,
+    "dose": -1,
+    "rank_score": 1.9687758684158325,
+    "screen_index": 46,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.6942893713712692,
+      "hostile": -0.19487175345420837,
+      "warm": -0.7627324759960175,
+      "poetic": -0.15304744243621826
+    },
+    "specificity": 0.34181800981362664
+  },
+  {
+    "layer": 7,
+    "neuron": 1550,
+    "dose": -1,
+    "rank_score": 2.32248854637146,
+    "screen_index": 25,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.39441782236099243,
+      "hostile": 0.0606866180896759,
+      "warm": -0.36960139870643616,
+      "poetic": -0.017035961151123047
+    },
+    "specificity": 0.3210383454958598
+  },
+  {
+    "layer": 31,
+    "neuron": 11260,
+    "dose": -1,
+    "rank_score": 1.104270339012146,
+    "screen_index": 104,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.6340243816375732,
+      "hostile": -0.37395158410072327,
+      "warm": -0.8113101869821548,
+      "poetic": -0.6373881101608276
+    },
+    "specificity": 0.3202893088261286
+  },
+  {
+    "layer": 5,
+    "neuron": 2986,
+    "dose": -1,
+    "rank_score": 1.888222098350525,
+    "screen_index": 53,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.6600994616746902,
+      "hostile": -0.13526663184165955,
+      "warm": -0.4267359972000122,
+      "poetic": -0.2622116208076477
+    },
+    "specificity": 0.31441572805245716
+  },
+  {
+    "layer": 11,
+    "neuron": 11487,
+    "dose": -1,
+    "rank_score": 1.9354956150054932,
+    "screen_index": 49,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.8543760478496552,
+      "hostile": -0.23105350136756897,
+      "warm": -0.5497668385505676,
+      "poetic": -0.20061826705932617
+    },
+    "specificity": 0.3038668831189474
+  },
+  {
+    "layer": 10,
+    "neuron": 8387,
+    "dose": 1,
+    "rank_score": 1.8649691343307495,
+    "screen_index": 56,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.4922328591346741,
+      "hostile": -0.15605661273002625,
+      "warm": -0.5354699343442917,
+      "poetic": -0.3264096975326538
+    },
+    "specificity": 0.2953142176071803
+  },
+  {
+    "layer": 13,
+    "neuron": 144,
+    "dose": 1,
+    "rank_score": 2.495380163192749,
+    "screen_index": 17,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.7423469126224518,
+      "hostile": -0.30005910992622375,
+      "warm": -0.7895470261573792,
+      "poetic": -0.2521663308143616
+    },
+    "specificity": 0.2946276466051737
+  },
+  {
+    "layer": 5,
+    "neuron": 8651,
+    "dose": -1,
+    "rank_score": 2.78835391998291,
+    "screen_index": 9,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.8401745557785034,
+      "hostile": -0.3622038662433624,
+      "warm": -0.6737288534641266,
+      "poetic": -0.4403350353240967
+    },
+    "specificity": 0.28920894861221313
+  },
+  {
+    "layer": 19,
+    "neuron": 12231,
+    "dose": 1,
+    "rank_score": 0.931058406829834,
+    "screen_index": 81,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.2569399029016495,
+      "hostile": -0.026240497827529907,
+      "warm": -0.43031157553195953,
+      "poetic": -0.23959702253341675
+    },
+    "specificity": 0.282709002494812
+  },
+  {
+    "layer": 18,
+    "neuron": 3838,
+    "dose": 1,
+    "rank_score": 1.0129538774490356,
+    "screen_index": 79,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.2617625892162323,
+      "hostile": 0.007620960474014282,
+      "warm": -0.35301798582077026,
+      "poetic": -0.1670304536819458
+    },
+    "specificity": 0.26822463671366376
+  },
+  {
+    "layer": 0,
+    "neuron": 11050,
+    "dose": 1,
+    "rank_score": 1.4646812677383423,
+    "screen_index": 64,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.34993787109851837,
+      "hostile": -0.1099725067615509,
+      "warm": -0.44266489148139954,
+      "poetic": -0.340070903301239
+    },
+    "specificity": 0.2675853818655014
+  },
+  {
+    "layer": 2,
+    "neuron": 3945,
+    "dose": -1,
+    "rank_score": 1.381337285041809,
+    "screen_index": 68,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.11887357383966446,
+      "hostile": 0.09921476244926453,
+      "warm": -0.16164490580558777,
+      "poetic": -0.22125244140625
+    },
+    "specificity": 0.2664717361330986
+  },
+  {
+    "layer": 13,
+    "neuron": 1874,
+    "dose": -1,
+    "rank_score": 1.8392539024353027,
+    "screen_index": 59,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.010817602276802,
+      "hostile": -0.6172920763492584,
+      "warm": -0.7425243854522705,
+      "poetic": -0.8746592998504639
+    },
+    "specificity": 0.25870835284392035
+  },
+  {
+    "layer": 22,
+    "neuron": 1124,
+    "dose": 1,
+    "rank_score": 0.9272743463516235,
+    "screen_index": 86,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.09200134873390198,
+      "hostile": 0.17460396885871887,
+      "warm": -0.03656463325023651,
+      "poetic": -0.10267388820648193
+    },
+    "specificity": 0.25168392558892566
+  },
+  {
+    "layer": 15,
+    "neuron": 4337,
+    "dose": -1,
+    "rank_score": null,
+    "random_control": true,
+    "screen_index": 111,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.8286651819944382,
+      "hostile": -0.6368754804134369,
+      "warm": -0.7299283444881439,
+      "poetic": -1.0455763339996338
+    },
+    "specificity": 0.2311811397473017
+  },
+  {
+    "layer": 11,
+    "neuron": 1830,
+    "dose": -1,
+    "rank_score": 2.086621046066284,
+    "screen_index": 38,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.5855188518762589,
+      "hostile": -0.30345794558525085,
+      "warm": -0.7385477721691132,
+      "poetic": -0.2607738971710205
+    },
+    "specificity": 0.2248222281535467
+  },
+  {
+    "layer": 3,
+    "neuron": 2350,
+    "dose": -1,
+    "rank_score": 1.4466288089752197,
+    "screen_index": 71,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.2992856577038765,
+      "hostile": -0.06582590937614441,
+      "warm": -0.49957969784736633,
+      "poetic": -0.055420100688934326
+    },
+    "specificity": 0.21893590937058133
+  },
+  {
+    "layer": 18,
+    "neuron": 11960,
+    "dose": -1,
+    "rank_score": 1.0334912538528442,
+    "screen_index": 78,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.08110592514276505,
+      "hostile": 0.07609692215919495,
+      "warm": -0.14661931991577148,
+      "poetic": -0.1312054991722107
+    },
+    "specificity": 0.195740503569444
+  },
+  {
+    "layer": 21,
+    "neuron": 833,
+    "dose": -1,
+    "rank_score": 0.5850473046302795,
+    "screen_index": 84,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.0813649520277977,
+      "hostile": -0.01609984040260315,
+      "warm": -0.1309998780488968,
+      "poetic": -0.42121100425720215
+    },
+    "specificity": 0.1950921043753624
+  },
+  {
+    "layer": 11,
+    "neuron": 8220,
+    "dose": 1,
+    "rank_score": 2.206470251083374,
+    "screen_index": 28,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.7493071407079697,
+      "hostile": -0.4097663462162018,
+      "warm": -0.7935003936290741,
+      "poetic": -0.26384681463241577
+    },
+    "specificity": 0.19245177010695136
+  },
+  {
+    "layer": 5,
+    "neuron": 109,
+    "dose": -1,
+    "rank_score": 2.138935089111328,
+    "screen_index": 32,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.49168749898672104,
+      "hostile": -0.33775952458381653,
+      "warm": -0.750682145357132,
+      "poetic": -0.31641900539398193
+    },
+    "specificity": 0.18183669199546182
+  },
+  {
+    "layer": 10,
+    "neuron": 821,
+    "dose": 1,
+    "rank_score": 2.1546969413757324,
+    "screen_index": 31,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.5836043506860733,
+      "hostile": -0.15231260657310486,
+      "warm": -0.2564258873462677,
+      "poetic": -0.14621514081954956
+    },
+    "specificity": 0.17643585304419201
+  },
+  {
+    "layer": 1,
+    "neuron": 7618,
+    "dose": 1,
+    "rank_score": 1.4133964776992798,
+    "screen_index": 67,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.20704909414052963,
+      "hostile": -0.08765843510627747,
+      "warm": -0.26984819769859314,
+      "poetic": -0.3132886290550232
+    },
+    "specificity": 0.17573687185843784
+  },
+  {
+    "layer": 13,
+    "neuron": 11408,
+    "dose": 1,
+    "rank_score": 1.8266162872314453,
+    "screen_index": 62,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.8162318766117096,
+      "hostile": -0.3417796790599823,
+      "warm": -0.584485337138176,
+      "poetic": -0.14740198850631714
+    },
+    "specificity": 0.17426005502541864
+  },
+  {
+    "layer": 12,
+    "neuron": 3724,
+    "dose": 1,
+    "rank_score": 1.6217999458312988,
+    "screen_index": 76,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.40752121806144714,
+      "hostile": -0.2178015410900116,
+      "warm": -0.5486755073070526,
+      "poetic": -0.21647632122039795
+    },
+    "specificity": 0.17308947443962097
+  },
+  {
+    "layer": 27,
+    "neuron": 6427,
+    "dose": -1,
+    "rank_score": 0.6689074635505676,
+    "screen_index": 95,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.016240574419498444,
+      "hostile": 0.1398843228816986,
+      "warm": -0.010095134377479553,
+      "poetic": -0.06051158905029297
+    },
+    "specificity": 0.16883342216412225
+  },
+  {
+    "layer": 3,
+    "neuron": 3479,
+    "dose": 1,
+    "rank_score": 1.6463650465011597,
+    "screen_index": 70,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.16612355411052704,
+      "hostile": -0.15873494744300842,
+      "warm": -0.3978019058704376,
+      "poetic": -0.41010385751724243
+    },
+    "specificity": 0.1659414917230606
+  },
+  {
+    "layer": 23,
+    "neuron": 11118,
+    "dose": 1,
+    "rank_score": 0.7416826486587524,
+    "screen_index": 87,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.03812772035598755,
+      "hostile": 0.0663597583770752,
+      "warm": -0.12948569655418396,
+      "poetic": -0.09765440225601196
+    },
+    "specificity": 0.15478236476580304
+  },
+  {
+    "layer": 11,
+    "neuron": 7656,
+    "dose": -1,
+    "rank_score": 2.4036340713500977,
+    "screen_index": 19,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.0471611469984055,
+      "hostile": -0.7275216281414032,
+      "warm": -1.0232151448726654,
+      "poetic": -0.5574968457221985
+    },
+    "specificity": 0.14843608438968658
+  },
+  {
+    "layer": 27,
+    "neuron": 2574,
+    "dose": 1,
+    "rank_score": 0.6097565293312073,
+    "screen_index": 96,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.05073472112417221,
+      "hostile": 0.06517258286476135,
+      "warm": -0.08892573416233063,
+      "poetic": -0.08897590637207031
+    },
+    "specificity": 0.14138470341761905
+  },
+  {
+    "layer": 26,
+    "neuron": 11854,
+    "dose": -1,
+    "rank_score": 0.8071885704994202,
+    "screen_index": 93,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.05950026214122772,
+      "hostile": 0.05927494168281555,
+      "warm": -0.0550568550825119,
+      "poetic": -0.07657957077026367
+    },
+    "specificity": 0.12298717101414998
+  },
+  {
+    "layer": 11,
+    "neuron": 9940,
+    "dose": -1,
+    "rank_score": 2.033663511276245,
+    "screen_index": 43,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -1.2628540396690369,
+      "hostile": -0.875630110502243,
+      "warm": -0.9768812954425812,
+      "poetic": -0.7449488639831543
+    },
+    "specificity": 0.11926462252934777
+  },
+  {
+    "layer": 26,
+    "neuron": 10121,
+    "dose": 1,
+    "rank_score": 0.601546585559845,
+    "screen_index": 94,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.048898354172706604,
+      "hostile": 0.02435937523841858,
+      "warm": -0.09969234466552734,
+      "poetic": -0.13594508171081543
+    },
+    "specificity": 0.11920463542143504
+  },
+  {
+    "layer": 24,
+    "neuron": 4922,
+    "dose": 1,
+    "rank_score": 0.49522534012794495,
+    "screen_index": 90,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.051853202283382416,
+      "hostile": 0.040082722902297974,
+      "warm": -0.06154373288154602,
+      "poetic": -0.12288063764572144
+    },
+    "specificity": 0.11884191383918126
+  },
+  {
+    "layer": 30,
+    "neuron": 10524,
+    "dose": -1,
+    "rank_score": 0.6361991167068481,
+    "screen_index": 102,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.33560754358768463,
+      "hostile": -0.0689786970615387,
+      "warm": -0.1578444540500641,
+      "poetic": -0.030629098415374756
+    },
+    "specificity": 0.10571500162283579
+  },
+  {
+    "layer": 28,
+    "neuron": 3050,
+    "dose": 1,
+    "rank_score": 0.619978666305542,
+    "screen_index": 98,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.03589470684528351,
+      "hostile": 0.02944090962409973,
+      "warm": -0.07584390044212341,
+      "poetic": -0.09863287210464478
+    },
+    "specificity": 0.09956473608811696
+  },
+  {
+    "layer": 29,
+    "neuron": 2988,
+    "dose": -1,
+    "rank_score": 0.5254901051521301,
+    "screen_index": 100,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.2229955792427063,
+      "hostile": -0.011528253555297852,
+      "warm": -0.07074382901191711,
+      "poetic": -0.03688037395477295
+    },
+    "specificity": 0.09867834051450093
+  },
+  {
+    "layer": 23,
+    "neuron": 4640,
+    "dose": -1,
+    "rank_score": 0.6018093824386597,
+    "screen_index": 88,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.03619737923145294,
+      "hostile": 0.041386812925338745,
+      "warm": -0.055574506521224976,
+      "poetic": -0.06960791349411011
+    },
+    "specificity": 0.09518007934093475
+  },
+  {
+    "layer": 15,
+    "neuron": 10856,
+    "dose": -1,
+    "rank_score": null,
+    "random_control": true,
+    "screen_index": 108,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.14775457978248596,
+      "hostile": -0.040063709020614624,
+      "warm": -0.11385005712509155,
+      "poetic": -0.09635621309280396
+    },
+    "specificity": 0.07925657431284587
+  },
+  {
+    "layer": 25,
+    "neuron": 165,
+    "dose": 1,
+    "rank_score": 0.46129655838012695,
+    "screen_index": 92,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.055080071091651917,
+      "hostile": -0.014183014631271362,
+      "warm": -0.026700615882873535,
+      "poetic": -0.12179774045944214
+    },
+    "specificity": 0.05367646118005116
+  },
+  {
+    "layer": 25,
+    "neuron": 6749,
+    "dose": -1,
+    "rank_score": 0.5670406222343445,
+    "screen_index": 91,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.017200231552124023,
+      "hostile": -0.007298082113265991,
+      "warm": -0.011422976851463318,
+      "poetic": -0.1530558466911316
+    },
+    "specificity": 0.053261602918306984
+  },
+  {
+    "layer": 24,
+    "neuron": 3460,
+    "dose": -1,
+    "rank_score": 0.6729427576065063,
+    "screen_index": 89,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.04617537558078766,
+      "hostile": 0.007124751806259155,
+      "warm": -0.01449882984161377,
+      "poetic": -0.07457965612411499
+    },
+    "specificity": 0.052209372321764626
+  },
+  {
+    "layer": 21,
+    "neuron": 8404,
+    "dose": -1,
+    "rank_score": 0.5952869653701782,
+    "screen_index": 83,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.1660812646150589,
+      "hostile": -0.22502753138542175,
+      "warm": -0.2521519958972931,
+      "poetic": -0.40974289178848267
+    },
+    "specificity": 0.05096451938152313
+  },
+  {
+    "layer": 2,
+    "neuron": 1615,
+    "dose": 1,
+    "rank_score": 1.3809198141098022,
+    "screen_index": 69,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.5112515389919281,
+      "hostile": -0.6351849138736725,
+      "warm": -0.7088853418827057,
+      "poetic": -0.8282525539398193
+    },
+    "specificity": 0.04761156439781189
+  },
+  {
+    "layer": 5,
+    "neuron": 9476,
+    "dose": -1,
+    "rank_score": null,
+    "random_control": true,
+    "screen_index": 105,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.2276800125837326,
+      "hostile": -0.27486154437065125,
+      "warm": -0.3507571816444397,
+      "poetic": -0.3567048907279968
+    },
+    "specificity": 0.03685248394807178
+  },
+  {
+    "layer": 28,
+    "neuron": 10605,
+    "dose": -1,
+    "rank_score": 0.7326968312263489,
+    "screen_index": 97,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.11782772094011307,
+      "hostile": -0.13364145159721375,
+      "warm": -0.2270231992006302,
+      "poetic": -0.15735357999801636
+    },
+    "specificity": 0.03376004844903946
+  },
+  {
+    "layer": 17,
+    "neuron": 10606,
+    "dose": -1,
+    "rank_score": null,
+    "random_control": true,
+    "screen_index": 112,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.23528335988521576,
+      "hostile": -0.15481194853782654,
+      "warm": -0.1639692187309265,
+      "poetic": -0.16571855545043945
+    },
+    "specificity": 0.03351176281770071
+  },
+  {
+    "layer": 15,
+    "neuron": 5165,
+    "dose": 1,
+    "rank_score": null,
+    "random_control": true,
+    "screen_index": 110,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.1632976308465004,
+      "hostile": -0.17746317386627197,
+      "warm": -0.1221902072429657,
+      "poetic": -0.27430260181427
+    },
+    "specificity": 0.00913363943497339
+  },
+  {
+    "layer": 14,
+    "neuron": 4535,
+    "dose": 1,
+    "rank_score": 2.3038604259490967,
+    "screen_index": 26,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.7358529269695282,
+      "hostile": -0.7807016670703888,
+      "warm": -0.8800466954708099,
+      "poetic": -0.74653559923172
+    },
+    "specificity": 0.0067767401536306116
+  },
+  {
+    "layer": 15,
+    "neuron": 11560,
+    "dose": 1,
+    "rank_score": null,
+    "random_control": true,
+    "screen_index": 106,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.17965172231197357,
+      "hostile": -0.10343196988105774,
+      "warm": -0.08124390244483948,
+      "poetic": 0.021923482418060303
+    },
+    "specificity": -0.023774589101473495
+  },
+  {
+    "layer": 11,
+    "neuron": 9552,
+    "dose": 1,
+    "rank_score": 2.7310054302215576,
+    "screen_index": 11,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -2.5631883442401886,
+      "hostile": -2.23424032330513,
+      "warm": -2.1393018662929535,
+      "poetic": -1.794119954109192
+    },
+    "specificity": -0.0687036017576852
+  },
+  {
+    "layer": 5,
+    "neuron": 3049,
+    "dose": 1,
+    "rank_score": null,
+    "random_control": true,
+    "screen_index": 109,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.23098056018352509,
+      "hostile": -0.36628392338752747,
+      "warm": -0.3355916738510132,
+      "poetic": -0.24395424127578735
+    },
+    "specificity": -0.09610843161741894
+  },
+  {
+    "layer": 30,
+    "neuron": 8832,
+    "dose": -1,
+    "rank_score": 0.7550227046012878,
+    "screen_index": 101,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.3179987594485283,
+      "hostile": -0.5890967547893524,
+      "warm": -0.43038371205329895,
+      "poetic": -0.5469726920127869
+    },
+    "specificity": -0.15731170028448105
+  },
+  {
+    "layer": 5,
+    "neuron": 7731,
+    "dose": -1,
+    "rank_score": null,
+    "random_control": true,
+    "screen_index": 107,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.3852055221796036,
+      "hostile": -0.4814826548099518,
+      "warm": -0.3182179033756256,
+      "poetic": -0.197429358959198
+    },
+    "specificity": -0.1811983933051427
+  },
+  {
+    "layer": 29,
+    "neuron": 6562,
+    "dose": -1,
+    "rank_score": 0.5523809194564819,
+    "screen_index": 99,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -0.5941673144698143,
+      "hostile": -0.861699253320694,
+      "warm": -0.6252814382314682,
+      "poetic": -0.2863242030143738
+    },
+    "specificity": -0.3597749347488085
+  },
+  {
+    "layer": 31,
+    "neuron": 4880,
+    "dose": 1,
+    "rank_score": 1.358659029006958,
+    "screen_index": 103,
+    "screen_dose": 0.25,
+    "gains": {
+      "plain": -8.092844098806381,
+      "hostile": -10.303190261125565,
+      "warm": -9.170022875070572,
+      "poetic": -8.303234934806824
+    },
+    "specificity": -1.7811562915643062
+  }
+]

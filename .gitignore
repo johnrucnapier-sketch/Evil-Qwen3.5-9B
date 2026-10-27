@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+work/
+*.safetensors
+*.gguf
+*.pt

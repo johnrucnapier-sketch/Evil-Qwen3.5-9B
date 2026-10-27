@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "torch": "2.10.0",
+    "transformers": "5.8.1",
+    "fla-core": "0.5.2",
+    "flash-linear-attention": "0.5.2",
+    "causal-conv1d": null,
+    "safetensors": "0.7.0",
+    "triton": "3.6.0"
+  },
+  "initial_script_sha256": "d7e4ec7e21aafeca8ef5519a0b87ea9993ad59eec895cd364474d8fa14ddf7be",
+  "final_script_sha256": "cbf98e3240740c7c414521f106188b9bff5f2f0df7acba089373c7bee9403d2a",
+  "code_evolution": "Added smaller-dose screening, per-worker recovery checks, grading and reporting during the documented experiment; final source in scripts/model/personality_20261027."
+}

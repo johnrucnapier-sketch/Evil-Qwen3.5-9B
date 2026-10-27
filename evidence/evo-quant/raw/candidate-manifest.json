@@ -1,0 +1,36 @@
+{
+  "status": "local steering-bundle candidates; not published",
+  "artifacts": [
+    {
+      "path": "/models/_work/evo-quant-20261027/Qwen3.5-9B-BF16.gguf",
+      "bytes": 17920697120,
+      "personality_baked": false,
+      "required_control_vector": "/models/_work/evo-quant-20261027/vectors/evo.gguf"
+    },
+    {
+      "path": "/models/_work/evo-quant-20261027/Qwen3.5-9B-Q4_K_M.gguf",
+      "bytes": 5629109024,
+      "personality_baked": false,
+      "required_control_vector": "/models/_work/evo-quant-20261027/vectors/evo.gguf"
+    },
+    {
+      "path": "/models/_work/evo-quant-20261027/Qwen3.5-9B-Q5_K_M.gguf",
+      "bytes": 6467969824,
+      "personality_baked": false,
+      "required_control_vector": "/models/_work/evo-quant-20261027/vectors/evo.gguf"
+    },
+    {
+      "path": "/models/_work/evo-quant-20261027/Qwen3.5-9B-Q6_K.gguf",
+      "bytes": 7359259424,
+      "personality_baked": false,
+      "required_control_vector": "/models/_work/evo-quant-20261027/vectors/evo.gguf"
+    }
+  ],
+  "hf_bf16_source": "/models/Qwen3.5-9B",
+  "hf_w4a16_source": "/models/Qwen3.5-9B-w4a16-ar",
+  "required_hf_vector": "/models/_work/evo-quant-20261027/vectors/evo.safetensors",
+  "language_only_tested": true,
+  "dose": -0.35,
+  "layer_zero_based": 17,
+  "neuron": 5066
+}

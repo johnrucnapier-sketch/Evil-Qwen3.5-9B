@@ -1,0 +1,8 @@
+{
+  "path": "/models/Qwen3.5-9B",
+  "class": "Qwen3_5ForCausalLM",
+  "down_proj": "<class 'torch.nn.modules.linear.Linear'>",
+  "bias": false,
+  "registered_hooks": 1,
+  "torch": "2.10.0+cu128"
+}

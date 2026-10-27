@@ -1,0 +1,38 @@
+{
+  "hf-bf16": {
+    "rows": 112,
+    "conditions_complete": true,
+    "frozen_prompt_hashes_equal": true,
+    "checks_pass": true
+  },
+  "hf-w4a16": {
+    "rows": 84,
+    "conditions_complete": true,
+    "frozen_prompt_hashes_equal": true,
+    "checks_pass": true
+  },
+  "gguf-BF16": {
+    "rows": 84,
+    "conditions_complete": true,
+    "frozen_prompt_hashes_equal": true,
+    "checks_pass": true
+  },
+  "gguf-Q4_K_M": {
+    "rows": 84,
+    "conditions_complete": true,
+    "frozen_prompt_hashes_equal": true,
+    "checks_pass": true
+  },
+  "gguf-Q5_K_M": {
+    "rows": 84,
+    "conditions_complete": true,
+    "frozen_prompt_hashes_equal": true,
+    "checks_pass": true
+  },
+  "gguf-Q6_K": {
+    "rows": 84,
+    "conditions_complete": true,
+    "frozen_prompt_hashes_equal": true,
+    "checks_pass": true
+  }
+}

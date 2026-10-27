@@ -1,0 +1,960 @@
+{
+  "source_commit": "83a5ecbc966939c1e83458c3d7ad2258fb2ab294",
+  "date": "2026-10-27",
+  "files": [
+    {
+      "public_file": "evidence/personality/summary.json",
+      "source_file": "docs/MODEL/personality-20261027/summary.json",
+      "source_sha256": "cff31d027b09ad7ab4333e45ac3162f529d07d91d65777e4b7ce2a44b96abf33",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/assistant-review.json",
+      "source_file": "docs/MODEL/personality-20261027/assistant-review.json",
+      "source_sha256": "bf4e39bd1f0f6ec37a0770a81c895722fbec1fe92c4383169a3c0e130b969895",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/script-sha256.json",
+      "source_file": "docs/MODEL/personality-20261027/script-sha256.json",
+      "source_sha256": "380b0322d1745bd349c7043278fa3f95ba0adc0002ea5a3fd274fe557537681e",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/dose-response.png",
+      "source_file": "docs/MODEL/personality-20261027/dose-response.png",
+      "source_sha256": "ee18fb3a1c0b50c1c9c13f5d3bb02ce2a8332c0b4722bee9fd3ad407e5d179e1",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/REPORT.md",
+      "source_file": "docs/MODEL/personality-20261027/REPORT.md",
+      "source_sha256": "8a81aafd19cca1054dc9883baa8c1d4787db817d25b3156535bef7a9120ae371",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/integrity-summary.json",
+      "source_file": "docs/MODEL/personality-20261027/integrity-summary.json",
+      "source_sha256": "ccb1d5dfe6d3632bc0f3b8665b0c9ca443f350a58196463509967869dc3a7f25",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/upstream-9B.json",
+      "source_file": "docs/MODEL/personality-20261027/upstream-9B.json",
+      "source_sha256": "fb7dbc0fbf3c82ea77c457434589ace7fc2cbb07495f8a9e39da99856df501c4",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/plot-environment.json",
+      "source_file": "docs/MODEL/personality-20261027/plot-environment.json",
+      "source_sha256": "a47fd7410a10f93cf2db7a2633b8487b41769407d235bea7c25b24c9e0ce1d41",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/weight-verification.json",
+      "source_file": "docs/MODEL/personality-20261027/weight-verification.json",
+      "source_sha256": "e425083be1bb6e2314e307ac2dad313f36c2d8b28a63fe4355d0b89d10075a52",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/config-verification.json",
+      "source_file": "docs/MODEL/personality-20261027/config-verification.json",
+      "source_sha256": "0cf7cdc418e54a4ee2d7b36c48dbf99ab131a1aab16b5be9f923591f5713ceb3",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/AUTO-RATINGS.md",
+      "source_file": "docs/MODEL/personality-20261027/AUTO-RATINGS.md",
+      "source_sha256": "fba3dbbe970127e78b96027fb81d96e2a98652a02dc49b5ba2603e0e87fa5eb3",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/dose-response.svg",
+      "source_file": "docs/MODEL/personality-20261027/dose-response.svg",
+      "source_sha256": "22a2d8af0c1395a99195c864397af88ab3a1d1d29ae405d6600f58e378645494",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/upstream-4B.json",
+      "source_file": "docs/MODEL/personality-20261027/upstream-4B.json",
+      "source_sha256": "ccef0109ef0d79c6f4b3f828b9979b8dbeb226e799d2e27229aca10f49cbb2d7",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/environment.json",
+      "source_file": "docs/MODEL/personality-20261027/environment.json",
+      "source_sha256": "4838ef69ef2a06428e1ce5e71a5462cb98249ff0e7a5f0de1f6f7d36e683fa81",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/ASSISTANT-SPOTCHECK.md",
+      "source_file": "docs/MODEL/personality-20261027/ASSISTANT-SPOTCHECK.md",
+      "source_sha256": "e314c9ea63c581f74affbe2a810b3058e5d077cecdae271a0b00b39d75192f5e",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/PROTOCOL.md",
+      "source_file": "docs/MODEL/personality-20261027/PROTOCOL.md",
+      "source_sha256": "32cb41709b9c412ec469315425ef0c49ccca780b51b563369c0ef1f618e9a4df",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/repro4/zero-recovery.json",
+      "source_file": "docs/MODEL/personality-20261027/repro4/zero-recovery.json",
+      "source_sha256": "d07a7c064e1999374eb915466c05d2c9c64868f5fbdbbc2fb7ab6b915a3630fd",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/repro4/norms.json",
+      "source_file": "docs/MODEL/personality-20261027/repro4/norms.json",
+      "source_sha256": "dca9c0b39541423a37509c7eebd48a4608545f719f824e6c99e3e6838a41493b",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/repro4/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/repro4/runtime.json",
+      "source_sha256": "b915e7e2ca0e64d1bfcfdaaace4963d30bc529820d5bd7fd50a260f509e61f87",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/repro4/reproduction.json",
+      "source_file": "docs/MODEL/personality-20261027/repro4/reproduction.json",
+      "source_sha256": "1132db700d1d9bbeeba0c71ff3f4bbc290c3ebe04d857a2bb57d7d89c9fdac70",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/validate0/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/validate0/runtime.json",
+      "source_sha256": "5cacbf3ed8c1eabfaecbf6795f3a72390afe2dd2fda66127cb5b5b717f876554",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/validate0/validation-0.json",
+      "source_file": "docs/MODEL/personality-20261027/validate0/validation-0.json",
+      "source_sha256": "4b9c87df52309f21777d3c3c87cf1621c8de87b232c731697f915f2400722ed1",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/validate0/zero-recovery-0.json",
+      "source_file": "docs/MODEL/personality-20261027/validate0/zero-recovery-0.json",
+      "source_sha256": "00774abc84440a95fd78529fb3deb7912cef375874e12df1c1b056a68f55aac3",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/validate0/peak-0.json",
+      "source_file": "docs/MODEL/personality-20261027/validate0/peak-0.json",
+      "source_sha256": "371e9e92901bb1bc76cf7d0eb17113ae1f6d6b589cc03e691f21f8f6f5641f29",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/validate1/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/validate1/runtime.json",
+      "source_sha256": "c37e30bc8ede6d5f0f0353069a7bf099789e0aa5dd533d753301550b7c4c758c",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/validate1/validation-1.json",
+      "source_file": "docs/MODEL/personality-20261027/validate1/validation-1.json",
+      "source_sha256": "ca977bc8b1d3cb5d43270792ee9e038d26c8d9ec853393fa37f483539110d801",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/validate1/peak-1.json",
+      "source_file": "docs/MODEL/personality-20261027/validate1/peak-1.json",
+      "source_sha256": "371e9e92901bb1bc76cf7d0eb17113ae1f6d6b589cc03e691f21f8f6f5641f29",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/validate1/zero-recovery-1.json",
+      "source_file": "docs/MODEL/personality-20261027/validate1/zero-recovery-1.json",
+      "source_sha256": "3e11c233c010d859a9203e7b02a9200c6270145da6fe758e4afc46b00693fee5",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine/norms.json",
+      "source_file": "docs/MODEL/personality-20261027/nine/norms.json",
+      "source_sha256": "d60a91adb13c33ae930d897866a726c5ee0f716934ff83db3196b7f6e57c0bd1",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/nine/runtime.json",
+      "source_sha256": "58fa0850c031d22e85a2be1d0ea10ac35bcceab3cb897344363d5e44b487a571",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine/corpus.json",
+      "source_file": "docs/MODEL/personality-20261027/nine/corpus.json",
+      "source_sha256": "74ca341db0fadd71ef0b19b9adceaaaec7f797c2c4b2028d7c5a97a58be2fc55",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine/conditions.json",
+      "source_file": "docs/MODEL/personality-20261027/nine/conditions.json",
+      "source_sha256": "0502e4a7a3c94aa66fbc39dfa70de775c641efa0d842e72b4502239b4cf5ed6f",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine/ranked.json",
+      "source_file": "docs/MODEL/personality-20261027/nine/ranked.json",
+      "source_sha256": "02621a0ff47dc99795f0e5f946642ba4256d41921cb877913203a5c62052d1b6",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine/screen-all.json",
+      "source_file": "docs/MODEL/personality-20261027/nine/screen-all.json",
+      "source_sha256": "3e7bb6dbeb5f97a326ae75eb61d60b067bffbbcd8dbaded1c4642ca3825dd11b",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/judge0/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/judge0/runtime.json",
+      "source_sha256": "91df7c3ab53d5c6e93ead8c2116bdf93431daabd8ed042488b2dbfe3eaef2e34",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/judge0/judge-0.json",
+      "source_file": "docs/MODEL/personality-20261027/judge0/judge-0.json",
+      "source_sha256": "bb26c6e31170a41fd759daee310f9bca337f99168deb76300a40566b4e78a6ae",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/screen0250/screen-0.json",
+      "source_file": "docs/MODEL/personality-20261027/screen0250/screen-0.json",
+      "source_sha256": "1174295ae05b4ca2a4a3ad63e283e5656b5d24329d88613178255a81a856d9f9",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/screen0250/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/screen0250/runtime.json",
+      "source_sha256": "f485a16f3207dbcdd1e0029c731faf803d1551c301bb525944f69d5ca96325e8",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/gradcheck4/norms.json",
+      "source_file": "docs/MODEL/personality-20261027/gradcheck4/norms.json",
+      "source_sha256": "dca9c0b39541423a37509c7eebd48a4608545f719f824e6c99e3e6838a41493b",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/gradcheck4/gradient-check.json",
+      "source_file": "docs/MODEL/personality-20261027/gradcheck4/gradient-check.json",
+      "source_sha256": "94952462fa5f8ba5a151d7d6d0b0c7f44865982fd96095e9c08b3e65d6bceffe",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/gradcheck4/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/gradcheck4/runtime.json",
+      "source_sha256": "4e155561b4121ba2aed2808a26608eee5ec8b8df273f188586e126914f5a4aa5",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/screen0251/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/screen0251/runtime.json",
+      "source_sha256": "d52140bd41f03a2f1c8d71979a29a079ad118d88bf338d9656a87409f265c411",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/screen0251/screen-1.json",
+      "source_file": "docs/MODEL/personality-20261027/screen0251/screen-1.json",
+      "source_sha256": "31eb149b9f209dc0537e7cce17c9de5cbed9648e86955afd66b502d141d08005",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/judge1/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/judge1/runtime.json",
+      "source_sha256": "bacde89f96ed14ce4807d70ff07b906f6cbd7a214172c4f0c96a2b36d815289f",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/judge1/judge-1.json",
+      "source_file": "docs/MODEL/personality-20261027/judge1/judge-1.json",
+      "source_sha256": "6723c512abd56cf6b1af02c5653a3e9ae026d5995cafe798873ed25461ce8e66",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/screen1/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/screen1/runtime.json",
+      "source_sha256": "e88eed20e70d9954cacd2f215e99b92435c5802f72363636167a7de0f6d56e54",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/screen1/screen-1.json",
+      "source_file": "docs/MODEL/personality-20261027/screen1/screen-1.json",
+      "source_sha256": "83eef43076f8d32c6c19e06b0830ace1b4ea726c1b6dd4088a2665d061c6a451",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/screen0/screen-0.json",
+      "source_file": "docs/MODEL/personality-20261027/screen0/screen-0.json",
+      "source_sha256": "0d7240a0ebdec656e7c1de69716f41128f00ee13548aced32f7b7a35c036929d",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/screen0/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/screen0/runtime.json",
+      "source_sha256": "b8166cc218d6f113b50f06a9a88f9ea0fbb31991ee61566db95a2df0175f07ce",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/fine-dose/zero-recovery.json",
+      "source_file": "docs/MODEL/personality-20261027/fine-dose/zero-recovery.json",
+      "source_sha256": "e565ac1013b42db47c678253f9c81145b27d8eacb4a84452b2b80ffdb0e7a8e2",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/fine-dose/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/fine-dose/runtime.json",
+      "source_sha256": "d119df854826b68b19c448f5a4497f78a8f3a7e490bc54c570a2f7f9e25c04a8",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/fine-dose/followup.json",
+      "source_file": "docs/MODEL/personality-20261027/fine-dose/followup.json",
+      "source_sha256": "09687fc2447c1ccffdd974b5c552f3d5f11cd3a3de549e076a1e3a8cc28e8054",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine0/norms.json",
+      "source_file": "docs/MODEL/personality-20261027/nine0/norms.json",
+      "source_sha256": "d60a91adb13c33ae930d897866a726c5ee0f716934ff83db3196b7f6e57c0bd1",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine0/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/nine0/runtime.json",
+      "source_sha256": "8d2d14f841cadc5b0cb6509c396eb655b6534893fac4e312ead30fba1b386da6",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine0/corpus.json",
+      "source_file": "docs/MODEL/personality-20261027/nine0/corpus.json",
+      "source_sha256": "7a862904837da3acedae3d34ac9a114252977c368c4c970287606270441f162c",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine1/norms.json",
+      "source_file": "docs/MODEL/personality-20261027/nine1/norms.json",
+      "source_sha256": "d60a91adb13c33ae930d897866a726c5ee0f716934ff83db3196b7f6e57c0bd1",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine1/runtime.json",
+      "source_file": "docs/MODEL/personality-20261027/nine1/runtime.json",
+      "source_sha256": "4fd489d670bfb55115abe49a684025a19a32e7b86fefc1272b132e0e53f905cf",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/personality/nine1/corpus.json",
+      "source_file": "docs/MODEL/personality-20261027/nine1/corpus.json",
+      "source_sha256": "c5f1f567eaf335c9a2d312bbcdffe5ab8aa72f7f82d075a931833c923a354eca",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/assistant-review.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/assistant-review.json",
+      "source_sha256": "c9b8655239484f503df632355a001386a98ce0425f88e684854d012ac317461e",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/REPORT.md",
+      "source_file": "docs/MODEL/evo-quant-20261027/REPORT.md",
+      "source_sha256": "0c7d6f8d64c6bb0bf9e09e75256596459828ee3a902fb94846fcfb3ff45b3bc2",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/CHINESE-COMPARISON.md",
+      "source_file": "docs/MODEL/evo-quant-20261027/CHINESE-COMPARISON.md",
+      "source_sha256": "486975971bef81c96adcb9ddcd91f0388210b59e667da1f3b7435fc3f43db647",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/RELEASE-DRAFT.md",
+      "source_file": "docs/MODEL/evo-quant-20261027/RELEASE-DRAFT.md",
+      "source_sha256": "5ee6f4f20c3e311880b01b4342ea6780d0588694bb3eaadb4185be087e058bd5",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/mechanical-summary.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/mechanical-summary.json",
+      "source_sha256": "31add90919d95c56096eb464784e006eb189bf2c6671976122ca2fc5f29dd599",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/PROTOCOL.md",
+      "source_file": "docs/MODEL/evo-quant-20261027/PROTOCOL.md",
+      "source_sha256": "eadc7de0c09bbb59273c1a4ccccef031753c38e7c048aa3e862d7c340587ee8e",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/consistency-checks.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/consistency-checks.json",
+      "source_sha256": "abafe6f8bd1cd3bd35fd2902a1aead6c41bac64b1fdfd1eb1d407aedd7e9d799",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/provenance.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/provenance.json",
+      "source_sha256": "5bf37fc2c94c1d7374333b9190c38d85990965f98f227784dd83d01f52fa4850",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/vector-reference-check.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/vector-reference-check.json",
+      "source_sha256": "acc17ae6f3e7e3bf4a8c56a46de9ed74c6ad86e35386ccaa8da4b5b1ddc20303",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/replay-comparison.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/replay-comparison.json",
+      "source_sha256": "66186d25f86590de6a7a8bb731d9bc9e69bedec73c6d2440e1895a30d0ffc1e0",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/mask-verification.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/mask-verification.json",
+      "source_sha256": "ed7f8483e43659d320cfeb0dc5fccbd266c7861fe806f6754740de725de1aa12",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/vector-manifest.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/vector-manifest.json",
+      "source_sha256": "56dba9c1bc78c24a62488e05830881782c7bc685ade27bc86b3e10ce770c4d4c",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/cases.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/cases.json",
+      "source_sha256": "cc169358d5c949778bfad2e62404ffe6e696f15cea0dd328264dab492e8ae287",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/candidate-manifest.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/candidate-manifest.json",
+      "source_sha256": "eb55ca12339feb0d848d97a67363fcf8c3673366bd1cde5a64f4c30fcf933744",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-bf16/runtime.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-bf16/runtime.json",
+      "source_sha256": "83ec9778c51bb491b6ef00a3042fb75322a5501cf6f4d252926f4da4870598c7",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-bf16/results.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-bf16/results.json",
+      "source_sha256": "564ab2fa791c993c91dbbcad373a509b4b72a8b9bc490afde77e52702b40fc4e",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-bf16/checks.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-bf16/checks.json",
+      "source_sha256": "b2a5ce3ee11205a7b048a3ecbde16d264431845abfbc54f73df352bf745dcc48",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/mask-probe/runtime.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/mask-probe/runtime.json",
+      "source_sha256": "d21567e91dfa9ae2ebfa06e95e32d1bac342c04cefbf5821f1f24380775905f4",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/mask-probe/replay.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/mask-probe/replay.json",
+      "source_sha256": "f13f9c70efcb79b031de19a072b3af048f1bc4ad39396153ba90bc828614a7db",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-bf16-nograd/runtime.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-bf16-nograd/runtime.json",
+      "source_sha256": "83ec9778c51bb491b6ef00a3042fb75322a5501cf6f4d252926f4da4870598c7",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-bf16-nograd/results.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-bf16-nograd/results.json",
+      "source_sha256": "ec425deb04788f97b48ed4ca40eca642203adc1a0940e463526bd56f8b97e4d8",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-bf16-nograd/checks.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-bf16-nograd/checks.json",
+      "source_sha256": "f7d26ab0b84b6657a41db6046214cd78b7a1be2494137af94c3144557f40fb1d",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-Q4_K_M/results.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-Q4_K_M/results.json",
+      "source_sha256": "5a4d0dd80c551d5d77ddad5b9feed1430a0cee4ccb254771b8622b37ba91794c",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-Q4_K_M/commands.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-Q4_K_M/commands.json",
+      "source_sha256": "834cf8f46d97dfb78aecd2d877cb465f05023f3c217cb466d793da518d3c3d2b",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-Q4_K_M/checks.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-Q4_K_M/checks.json",
+      "source_sha256": "5330aadbade83193cb30364566b801e1b2e368b828810729fbc0dcbc105479cd",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-Q5_K_M/results.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-Q5_K_M/results.json",
+      "source_sha256": "575c390d483d9ae6444b85d42e5adab2ab5ec2be89b79f5e2c53b385e72f76d4",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-Q5_K_M/commands.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-Q5_K_M/commands.json",
+      "source_sha256": "da77caec4477d895ca2032be18c0d37bfc9f416c74df3aaea0d66d41004b77a9",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-Q5_K_M/checks.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-Q5_K_M/checks.json",
+      "source_sha256": "5330aadbade83193cb30364566b801e1b2e368b828810729fbc0dcbc105479cd",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-Q6_K/results.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-Q6_K/results.json",
+      "source_sha256": "0c4ff8289279d9104181dd244fa6892bfe4895817d33ccdd0706d2aa8b520220",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-Q6_K/commands.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-Q6_K/commands.json",
+      "source_sha256": "9f0e485126a34af5b107950f220aea01d5685ad19869c0bb3c170558d310d286",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-Q6_K/checks.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-Q6_K/checks.json",
+      "source_sha256": "5330aadbade83193cb30364566b801e1b2e368b828810729fbc0dcbc105479cd",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/legacy-replay/runtime.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/legacy-replay/runtime.json",
+      "source_sha256": "b42c77ee2f1686da4ffe196c1af57e728d5ac5bf0f35f43b589a1d3ae41bccaf",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/legacy-replay/replay.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/legacy-replay/replay.json",
+      "source_sha256": "1b17a07d7adabccfe5d79016ec5c3e1e73e71f4fedb9fdc57c124811a3e16243",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-w4a16/runtime.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-w4a16/runtime.json",
+      "source_sha256": "6fb92f6c8211e4428c86436d2f699c7a55015b7e398dfdb6ee06b3e0851b2cc3",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-w4a16/results.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-w4a16/results.json",
+      "source_sha256": "b7117d819185491972574926341e2f1666229c833d3d7a84dbe63dec57923afb",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-w4a16/checks.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-w4a16/checks.json",
+      "source_sha256": "e8d4e1f479aa01975157da728ac4d3926fa94869f7cef1b0cf10643dc7ea667b",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/hf-w4a16/smoke.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/hf-w4a16/smoke.json",
+      "source_sha256": "7325f2515038e2b673a30be0d5febbf0ba746d1afeabee2913ade9e73c938d1e",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-BF16/results.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-BF16/results.json",
+      "source_sha256": "0cd3ce941727e04e0b254aea9ec7f7701b5adea45d125755c97448b3a5d950de",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-BF16/commands.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-BF16/commands.json",
+      "source_sha256": "2f6aa27616883ed2eb476c8e5a49b181f25932e5804664a11794f09e04410d2e",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-quant/raw/gguf-BF16/checks.json",
+      "source_file": "docs/MODEL/evo-quant-20261027/raw/gguf-BF16/checks.json",
+      "source_sha256": "5330aadbade83193cb30364566b801e1b2e368b828810729fbc0dcbc105479cd",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/GATE.md",
+      "source_file": "docs/MODEL/evo-fit-20261027/GATE.md",
+      "source_sha256": "4382e60c6a16a3327aa1233fde0190f07268892a52175f895ec4fa43a4d86669",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/assistant-review.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/assistant-review.json",
+      "source_sha256": "cc44038be7822dfb7f3bd4b4b78acf22fab7e66935a68be5531770d41776e552",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/scores.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/scores.json",
+      "source_sha256": "a36943f4f7a15ea576e4846917d957458345ce2527ad5a95dafb423ad2c0d4fb",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/REPORT.md",
+      "source_file": "docs/MODEL/evo-fit-20261027/REPORT.md",
+      "source_sha256": "45f3e1336233596f257d0eaa79f9ee60a44e48dec6d25cb0f12c1f589236ff3a",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/PROTOCOL.md",
+      "source_file": "docs/MODEL/evo-fit-20261027/PROTOCOL.md",
+      "source_sha256": "ffb424448e7cebfb29c344921f9ccea4d23aacbde8cc4cf6f1774f87ae92c538",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/export-verification.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/export-verification.json",
+      "source_sha256": "d1a061844671b3214979570ce15dbb703353cfd2f67f0f0ecebb52fbccbd04c7",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/controls-runtime.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/controls-runtime.json",
+      "source_sha256": "f8736f49860115f5852705fd957b752e3e4d7b9a22cf81c62523c1071d0618d8",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/candidate-runtime.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/candidate-runtime.json",
+      "source_sha256": "806d2bde20d6ea7d9ec68d4f83a4c6027f928abb7210e68e126022d72bd24434",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/export.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/export.json",
+      "source_sha256": "68d6abfe77534ab7a1869f689ea094d7bcdc95fdc404a046a0360437a2c4877c",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/calibration.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/calibration.json",
+      "source_sha256": "a2ea77fa1b0e5687555e444987a672d69ad03d2d86d92a8a70d8c3abf7723483",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/calibration-outputs.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/calibration-outputs.json",
+      "source_sha256": "4b76e0bf29154d4f25d8376c0c89ebbc06442b6d9a9be4da1e284a89e01993aa",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/dataset-freeze.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/dataset-freeze.json",
+      "source_sha256": "2ede9a0011dcb267d72e366bb224f89c3a4d998b2cf5a078adaa21e72ab069fb",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/vision-preservation.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/vision-preservation.json",
+      "source_sha256": "fcfdfdc8ebf0584cff8d5671afb38f4548a8393df3b9e8bfd7eb31277239d2c8",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/candidate-results.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/candidate-results.json",
+      "source_sha256": "857c154acbc5d821de656fc4d99061a47d8284ab3342cd446092584da9c49841",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/controls-results.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/controls-results.json",
+      "source_sha256": "33f38e6e16fd30b5a7097c5ec4467f65b06e259f3be6ea436af54505d0f732c8",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/control-reproduction.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/control-reproduction.json",
+      "source_sha256": "f882f0957ef885f7c8f916de6fcbb82b034223c8ead98d9c711ca6c4774d6573",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/fit.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/fit.json",
+      "source_sha256": "ce94f9de5d54a004fa75baf0f1f6aec57aaeb578047ac68b7aaa04123bb8e258",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/candidate-checks.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/candidate-checks.json",
+      "source_sha256": "e956e46c43b005015e28bc792bca2cf68a8b8b402da890173729756783e575f1",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/artifact-manifest.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/artifact-manifest.json",
+      "source_sha256": "a1fd3ea73e06a48f1add7522e37645be81d0c8336308870ecdaec1781a51d351",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/cases-native.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/cases-native.json",
+      "source_sha256": "666a33b1acfdc57adcbb6708e4b3a72ef3a9a2b467fdabad17c89476c48f2232",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/w4a16-checks.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/w4a16-checks.json",
+      "source_sha256": "e956e46c43b005015e28bc792bca2cf68a8b8b402da890173729756783e575f1",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/cases.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/cases.json",
+      "source_sha256": "1c01fed933df8b0714a49cc756e0d3569abb381f526f22a307a8dd72e06cb871",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/validation.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/validation.json",
+      "source_sha256": "1b5946e9fc29faea842201be01b552dfe936a281dcb95a5e5cbd860209b97b5f",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/w4a16-runtime.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/w4a16-runtime.json",
+      "source_sha256": "9dd38ab30e46e466278cacbe499340d67bea3e1b028d3cd285cfc6ae748f75b5",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/quant-metadata.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/quant-metadata.json",
+      "source_sha256": "3f237584d3f14bbdb5075bee4e81241e01746802acf654455df42b70b16379b8",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/controls-checks.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/controls-checks.json",
+      "source_sha256": "e956e46c43b005015e28bc792bca2cf68a8b8b402da890173729756783e575f1",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/w4a16-results.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/w4a16-results.json",
+      "source_sha256": "e849ce5c0074d62718040f9e73f11e6afb9e7e5464db4b294d24cad44461c1c7",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-Q4_K_M/results.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-Q4_K_M/results.json",
+      "source_sha256": "e5772596f12f58c0a0cef4183c5d490672bcb6b98ed931b2e98562f0d5557d8a",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-Q4_K_M/commands.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-Q4_K_M/commands.json",
+      "source_sha256": "476ac5aab74ef0fd3916374669a3026fdb10aa2661cacd7e5e4e743aa09163ba",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-Q4_K_M/checks.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-Q4_K_M/checks.json",
+      "source_sha256": "00d894f375fd00aa0e39ba654ac3df8ba0ae04e30c8fdd8a84dbefbc99b1f451",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-Q5_K_M/results.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-Q5_K_M/results.json",
+      "source_sha256": "8557091cdef5a21a5834b4b4d0631fa4dadc78474dcea326ac4e3dd624d25887",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-Q5_K_M/commands.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-Q5_K_M/commands.json",
+      "source_sha256": "f84df49c3c60d1f8563504134da87c91c2039c60b5d399c543482ac3cf3170ce",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-Q5_K_M/checks.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-Q5_K_M/checks.json",
+      "source_sha256": "00d894f375fd00aa0e39ba654ac3df8ba0ae04e30c8fdd8a84dbefbc99b1f451",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-Q6_K/results.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-Q6_K/results.json",
+      "source_sha256": "7c28fa08b86e00c2d50a1b9e6906b4e64a61b8f3065f4a4d4437db16148aaedf",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-Q6_K/commands.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-Q6_K/commands.json",
+      "source_sha256": "75afd617dd7c34236e4db8749a00318084566c81b167d987a803e1f5e599270d",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-Q6_K/checks.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-Q6_K/checks.json",
+      "source_sha256": "00d894f375fd00aa0e39ba654ac3df8ba0ae04e30c8fdd8a84dbefbc99b1f451",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-BF16/results.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-BF16/results.json",
+      "source_sha256": "bf78dd7d3d8ebcceee31ac2de231debadca40685ad5ebf24fa8c94b4e4d34e9a",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-BF16/commands.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-BF16/commands.json",
+      "source_sha256": "926a421bc921e8a0185e67335d3b34c59075f57c57de640d1d9fb5d7c3ae7415",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "evidence/evo-fit/raw/gguf-BF16/checks.json",
+      "source_file": "docs/MODEL/evo-fit-20261027/raw/gguf-BF16/checks.json",
+      "source_sha256": "00d894f375fd00aa0e39ba654ac3df8ba0ae04e30c8fdd8a84dbefbc99b1f451",
+      "transformation": "private user paths and GPU UUIDs generalized; text otherwise retained"
+    },
+    {
+      "public_file": "research/personality_20261027/plot.py",
+      "source_file": "scripts/model/personality_20261027/plot.py",
+      "source_sha256": "926755dfb97b2a0e291830e776a29f5bcf8961df1c36ffb1864ebf3e70e72f7e",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/personality_20261027/summarize.py",
+      "source_file": "scripts/model/personality_20261027/summarize.py",
+      "source_sha256": "aced7e3db8e86b28f454a9a22d0c7ee0c809ff90880b7ecaff3a217e7a94e8b1",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/personality_20261027/fine_dose.py",
+      "source_file": "scripts/model/personality_20261027/fine_dose.py",
+      "source_sha256": "46e237fcf0d49bcf3f8e8490fd29eae5942d278ea5a7060216f42ffc490a11b2",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/personality_20261027/experiment.py",
+      "source_file": "scripts/model/personality_20261027/experiment.py",
+      "source_sha256": "cbf98e3240740c7c414521f106188b9bff5f2f0df7acba089373c7bee9403d2a",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/personality_20261027/select_conditions.py",
+      "source_file": "scripts/model/personality_20261027/select_conditions.py",
+      "source_sha256": "ca9c9e2f318d0cf921a88e70e73f2d1492c6ee9a91499ada9ece9cf345d447b3",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_quant_20261027/run_hf.py",
+      "source_file": "scripts/model/evo_quant_20261027/run_hf.py",
+      "source_sha256": "aca2c181d2106dfcbbe9edb52cec8f8f1d876fbc4941be99f2ea5d5940a72e30",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_quant_20261027/legacy_replay.py",
+      "source_file": "scripts/model/evo_quant_20261027/legacy_replay.py",
+      "source_sha256": "16167bcbc7c79394b9f04c955750ddd365ce04978bf374c334b696e4c14f5290",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_quant_20261027/summarize.py",
+      "source_file": "scripts/model/evo_quant_20261027/summarize.py",
+      "source_sha256": "7d9f257f975d4948b9d7e8687a16e5a63f141555c0a44d67213b767f0dcac268",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_quant_20261027/mask_probe.py",
+      "source_file": "scripts/model/evo_quant_20261027/mask_probe.py",
+      "source_sha256": "2d1c85b7e2a4e5135b7360a11ff1202389dbb10a061cf6868a261f16652b1177",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_quant_20261027/provenance.py",
+      "source_file": "scripts/model/evo_quant_20261027/provenance.py",
+      "source_sha256": "371fba1242f0ff852e7ff76ebe61afb0c4031be34cbc4480190b7f8288e97c43",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_quant_20261027/run_gguf.py",
+      "source_file": "scripts/model/evo_quant_20261027/run_gguf.py",
+      "source_sha256": "1e41d8e8e466afa15ed3b4f76a1499b9c82a06d5fb1c49cf34c0c83643ca77e6",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_quant_20261027/prepare.py",
+      "source_file": "scripts/model/evo_quant_20261027/prepare.py",
+      "source_sha256": "667b1e823d1f1b247674a70a51ec457e29496a2e82f3a370e0cc7ecb1ca6dff3",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/fit.py",
+      "source_file": "scripts/model/evo_fit_20261027/fit.py",
+      "source_sha256": "920fca739b07d9ffad5929b3611144d404d39eec3c5b2ff61bfbc1ca9a284001",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/quantize.py",
+      "source_file": "scripts/model/evo_fit_20261027/quantize.py",
+      "source_sha256": "3f307f3894e9074e5d8c2b6dc3b155108feda78991b41c53632e1d08f8f1cbb4",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/summarize.py",
+      "source_file": "scripts/model/evo_fit_20261027/summarize.py",
+      "source_sha256": "c0ef20773417e94a4bbc6f4cd513a11eebfb53311946cd9b43d037d4be3886a0",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/comparison.py",
+      "source_file": "scripts/model/evo_fit_20261027/comparison.py",
+      "source_sha256": "dfc3f733e950de2010b04a22139cb3d982bc9acdeed7ff9e17888d51b0264309",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/dataset.py",
+      "source_file": "scripts/model/evo_fit_20261027/dataset.py",
+      "source_sha256": "7eebb3dcb3ef5927f71a84b004c544d5ea806115c365fa659de2f9c61fde5cab",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/common.py",
+      "source_file": "scripts/model/evo_fit_20261027/common.py",
+      "source_sha256": "b566cba9522edebf2484760d866385f8dffc21acc20638c85b5641b214df21d6",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/verify_export.py",
+      "source_file": "scripts/model/evo_fit_20261027/verify_export.py",
+      "source_sha256": "fbece0372ef2f80d75fc048083fc855a950578ce1e1fe9f3e3e07c3f2bdf2a0d",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/evaluate.py",
+      "source_file": "scripts/model/evo_fit_20261027/evaluate.py",
+      "source_sha256": "f8fc3f8c6964c14db4a8fe4778f473d43fee70fabfa70ea4bea525b3cc4ac92d",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/run_gguf.py",
+      "source_file": "scripts/model/evo_fit_20261027/run_gguf.py",
+      "source_sha256": "5a636361ced1c34cd29074b1792bd4cdff292a453a8ef9b49d7ec7e5a7a875ff",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    },
+    {
+      "public_file": "research/evo_fit_20261027/encode_native.py",
+      "source_file": "scripts/model/evo_fit_20261027/encode_native.py",
+      "source_sha256": "74d6bf7d1026c070fd27f5f1cf6949ddda1bde3532cef6d535c88459065ee7c4",
+      "transformation": "private user paths and GPU UUIDs generalized; historical scripts retain original layout"
+    }
+  ]
+}

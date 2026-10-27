@@ -1,0 +1,5 @@
+{
+  "python": "3.14.5 (main, May 10 2026, 10:21:34) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "matplotlib": "3.11.2",
+  "environment": "isolated temporary environment on Mac; model runtime unchanged"
+}
